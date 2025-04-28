@@ -1,0 +1,1205 @@
+,head,relationship,tail,split
+0,"""a Denver museum""",bought_from,Butterfields,train
+1,"""a Los Angeles museum""",bought_from,Butterfields,train
+2,"""a Phoenix museum""",bought_from,Butterfields,train
+3,"""a Santa Barbara museum""",bought_from,Butterfields,train
+4,"""a Seattle museum""",bought_from,Butterfields,train
+5,Abraham Trust,acted_for,Marquess of Northampton,train
+6,Abraham Trust,employed,Ramiz Rizk,train
+7,Abraham Trust,partnered,Geoffrey Jenkinson,train
+8,Abraham Trust,related_to,Marquess of Northampton,train
+9,Aidonia_Greece,origin_for,Aidonia_Greece Treasure,train
+10,Aidonia_Greece Treasure,looted_from,Aidonia_Greece,train
+11,Aidonia_Greece Treasure,repatriated_to,Greece,train
+12,Alan C Lapiner,sold_antiquities_to,Metropolitan Museum of Art,train
+13,Alberto Luna,operated_in,Mexico,train
+14,Alexander Yerofeyev,was_in,St Petersburg,train
+15,Alfonso Medellín Zenil,donated_to,Museum of Anthropology,train
+16,Alistair McAlpine,implicated_with,John Cummings,train
+17,American Museum of Natural History,bought_from,Pablo Soldi,train
+18,Andre Emmerich Gallery,sold_antiquities_to,Michael Rockefeller,train
+19,Andre Emmerich's New York Gallery,accepted_material_from,Peter G Wray,train
+20,André Emmerich,refused,Ed Dwyer,train
+21,Anna Spinello,alias,Gianfranco Becchina,train
+22,Anne-Louise Schaffer,worked_for,Museum of Primitive Art,train
+23,Antalya,regained,Weary Herakles,train
+24,Antalya Museum,exhibited,Weary Herakles,train
+25,Antike Kunst Palladion,belonged_to,Gianfranco Becchina,train
+26,Antike Kunst Palladion,implicated_by,Medici Polaroid,train
+27,Antiquaria Romana,belonged_to,Giacomo Medici,train
+28,Anton Roeckl,lived_in,Germany,train
+29,Anton Roeckl,smuggled_antiquities_from,Dos Cabezas,train
+30,Anton Tkalec,possessed,Sevso Plate,train
+31,Antonio ‘Nino' Savoca,bought_from,Luigi Coppola,train
+32,Archaeological Survey of India,employed,DR Bhandarkar,train
+33,Armand Labbé,curator_of,Bowers Museum,train
+34,Art Collections Conservation Network,led_by,Michael Kelly,train
+35,Art Consultancy,belonged_to,Peter Wilson,train
+36,Art Gallery of New South Wales,acquired,dragon ewers,train
+37,Art Loss Register,partnered,Immigration and Customs Enforcement,train
+38,Artistic Imports Corporation ),belonged_to,Vaman Ghiya,train
+39,Arts Franc,accepted_material_from,Giacomo Medici,train
+40,Arts of Asia,auctioned_for,John Eskenazi,train
+41,Ashmolean Museum,bought_from,Gianfranco Becchina,train
+42,Asia,looted_by,Giacomo Medici,train
+43,Asia,source_for,Robert Olson,train
+44,Atru,base_for,DR Bhandarkar,train
+45,Atru,robbed_of,western-most ( farthest right ) maithuna,train
+46,Ballcourt Marker,repatriated_to,Guatemala,train
+47,Ban Chiang,base_for,Chester Gorman,train
+48,Ban Chiang pottery,purchased_by,Barry MacLean,train
+49,Bangkok,base_for,Bobbyo Imports,train
+50,Bangkok University's Southeast Asian Ceramics Museum,employed,Roxanna Brown,train
+51,Barbara Fleischman,gave,Fleischman Collection,train
+52,Barbara Fleischman,relationship_with,Lawrence Fleischman,train
+53,Barbier-Mueller Pre-Columbian Art Museum,exhibited,mask made of fuschite depicting the sun god,train
+54,Barry Stern,consigned_through,Christie's,train
+55,Barry Stern,president_of,Hillwood Museum,train
+56,Belgium,contains,Flanders,train
+57,Benjamin Bishop Johnson,appraised_art_for,David Swetnam,train
+58,Bill Verick,partnered,Jordan Eth,train
+59,Bobbyo Imports,belonged_to,Robert Olson,train
+60,Bolivia,transit_point_for,David Swetnam,train
+61,Bolivian National Archives,partnered,Cristina Bubba,train
+62,Bonhams,probed_by,Luc Watrin,train
+63,Boston Museum of Fine Arts,received_antiquities_from,Leon Levy,train
+64,Boston Museum of Fine Arts,returned,Weary Herakles,train
+65,Boston University,employed,William Saturno,train
+66,Brendan Lynch,partnered,Vaman Ghiya,train
+67,British Columbia,base_for,Olof Hansson,train
+68,British Museum,acquired,dragon ewers,train
+69,Brooklyn Museum,refused,Ed Dwyer,train
+70,CID,employed,Vladimir Mefty,train
+71,Caballo Pintado,part_of,Las Bocas,train
+72,Cambridge Centre for Precious Metal Research,employed,Jack Ogden,train
+73,Canada,regained,totem pole,train
+74,Cancuén,base_for,Sylvanus Morley,train
+75,Cape Lion Logging,belonged_to,Vaman Ghiya,train
+76,Captain Trang,sold_antiquities_in,Hoi An,train
+77,Captain Trang,stole,Cu Lao Cham,train
+78,Carabinieri,arrested,Giacomo Medici,train
+79,Carabinieri,investigated,Giuseppe Mascara,train
+80,Carabinieri,raided,Geneva,train
+81,Carl Cuthe,partnered,Sylvanus Morley,train
+82,Cerveteri,origin_for,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",train
+83,Charles Craig,raided_by,United States Customs,train
+84,Chester Gorman,was_in,Ban Chiang,train
+85,Chiang Mai,base_for,Bobbyo Imports,train
+86,Chinese Embassy,regained,Sotheby's,train
+87,Christian Boursaud,owned,Hydra Gallery,train
+88,Christie's,accepted_material_from,Israeli,train
+89,Christos Michaelides,relationship_with,Robin Symes,train
+90,Cleveland Museum of Art,bought_from,Giacomo Medici,train
+91,Clive Hollinshead,bought_from,Ed Dwyer,train
+92,Cornelius C Vermeule III,curator_of,Boston Museum of Fine Arts,train
+93,Coroma,origin_for,sacred textiles,train
+94,Cristina Bubba,partnered,Bolivian National Archives,train
+95,Crocker Bank,employed,Charles Craig,train
+96,Curator of Provenance,worked_for,Boston Museum of Fine Arts,train
+97,Danilo Zicchi,partnered,Pasquale Camera,train
+98,David Bernstein,accepted_material_from,Moche pieces,train
+99,David Swetnam,hired,Benjamin Bishop Johnson,train
+100,David Swetnam,smuggled_antiquities_through,Bolivia,train
+101,David Swetnam,smuggled_antiquities_to,United States,train
+102,David Swetnam,stored_antiquities_in,United Kingdom,train
+103,David Swetnam,wanted_by,United States Customs,train
+104,Delhi,base_for,Vaman Ghiya,train
+105,Denver Art Museum,partnered,Museo Nacional de Arqueología e Etnología,train
+106,Departamento de Monumentos Arqueológicos,investigated,Dos Cabezas,train
+107,Department of Archaeology,led_by,Riddi Pradhan,train
+108,Detroit Institute of Art,bought_from,André Emmerich,train
+109,Dietrich von Bothmer,bought_from,Gianfranco Becchina,train
+110,Dikran Sarrafian,authenticated,Euphronios ( Sarpedon ) krater,train
+111,Donald Hales,appraised_art_for,Leonardo Patterson,train
+112,Dyfri Williams,worked_for,British Museum,train
+113,Dynasty Tomb of Mutirdis,repatriated_to,Egypt,train
+114,E Pfuhl,implicated_by,Giacomo Medici,train
+115,Earl Stendahl,sold_antiquities_to,Pierre Langlois,train
+116,Ed Dwyer,rejected_by,André Emmerich,train
+117,Editions Services,accepted_material_from,sarcophagus,train
+118,Edward Johnson,caught_by,Immigration and Customs Enforcement,train
+119,Edward Johnson,stationed_in,Cairo,train
+120,Edward Merrin,sold,El Zotz Wooden Lintel,train
+121,Egypt,looted_by,Giacomo Medici,train
+122,Egyptian,returned_by,Rupert Wace,train
+123,Egyptian Embassy,received_antiquities_from,Bonhams,train
+124,Egyptian artefacts,taken_from,Hillwood Museum,train
+125,El Manatí,looted_by,Leonardo Patterson,train
+126,El Manatí Style Busts,bought_from,Leonardo Patterson,train
+127,El Salvador,base_for,Stanley Boggs,train
+128,El Zotz,contains,Temple 1,train
+129,El Zotz Wooden Lintel,given_by,Berry & Stark Associates,train
+130,El Zotz Wooden Lintel,shipped_to,United States,train
+131,Elie Borowsky,partnered,Gianfranco Becchina,train
+132,Elizabeth Shee Twohig,partnered,National Museum of Ireland,train
+133,Emil Bernal,partnered,Pereda,train
+134,Enrico Poli,bought_from,Pereda,train
+135,Euphronios,made,Euphronios ( Sarpedon ) krater,train
+136,Euphronios ( Sarpedon ) krater,created_by,Euphronios,train
+137,Euphronios ( Sarpedon ) krater,from_culture,Athens,train
+138,Euphronios ( Sarpedon ) krater,verified_by,Dikran Sarrafian,train
+139,Euxitheos,made,Euphronios ( Sarpedon ) krater,train
+140,Everett Rassiga,implicated_with,Josué Sáenz,train
+141,Fine Arts Services,worked_for,Miguel de Osma Berckemeyer,train
+142,Finland,base_for,Larisa Zavadskaya,train
+143,Finlyandskiy,base_for,Nikolay Zavadsky,train
+144,Flanders Heritage Agency,investigated,Velzeke Provincial Archaeological Museum,train
+145,Fred Drew,bought_from,Pereda,train
+146,Frederick Schultz,sold_antiquities_to,J Paul Getty Museum,train
+147,Frieda Tchacos,bought_from,Antonio ‘Nino' Savoca,train
+148,Fritz Bürki,implicated_by,Medici Polaroid,train
+149,Galerie Nefer,donated_to,J Paul Getty Museum,train
+150,Gaston Wallace,worked_for,United States Customs,train
+151,Gaziantep Museum,regained,mosaic floor,train
+152,Geneva storerooms,base_for,Giacomo Medici,train
+153,Geneva-based Editions Services,accepted_material_from,Giacomo Medici,train
+154,George Ortiz,bought_from,Giacomo Medici,train
+155,Germany,home_of,Anton Roeckl,train
+156,Giacomo Medici,implicates,Atlantis Antiquities,train
+157,Giacomo Medici,smuggled,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",train
+158,Glenn Rittenour,operated_in,Milwaukee,train
+159,Golden Horns,looted_by,Niels Heidenreich,train
+160,Gordon McClendon,donated_to,J Paul Getty Museum,train
+161,Guatemala,regained,Ballcourt Marker,train
+162,Guy Loudmer,consigned_through,Hôtel des Ventes,train
+163,Halim Korban,partnered,Anton Tkalec,train
+164,Harry Brown,bought_from,Ed Dwyer,train
+165,Helena,base_for,Harry Brown,train
+166,Hermitage,employed,Larisa Zavadskaya,train
+167,Hervé Poulin,consigned_through,Hôtel des Ventes,train
+168,Hindu,origin_for,sculptures,train
+169,Hischam Aboutaam,partnered,Giacomo Medici,train
+170,Hoi An ceramics,consigned_through,eBay,train
+171,Hong Kong,transit_point_for,western-most ( farthest right ) maithuna,train
+172,Hunt brothers,bought_from,Giacomo Medici,train
+173,Hôtel des Ventes,auctioned_for,Guy Loudmer,train
+174,Ica Valley,looted_by,Pablo Soldi,train
+175,Incirlik Air Base,employed,Sezai Portakalci,train
+176,India,base_for,Vaman Ghiya,train
+177,Indian High Commissions,employed,Kirit L Mankodi,train
+178,Israeli private collection,consigned_through,Christie's,train
+179,Italian Giustiniani Collection,origin_for,torso of a second century AD statue of the god,train
+180,Italy,looted_by,Giacomo Medici,train
+181,J Paul Getty Museum,acquired,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",train
+182,JFK Airport,base_for,Swiss Air,train
+183,Jack Ogden,appraised_art_for,Michael Ward Gallery,train
+184,Jacqueline Swetnam,relationship_with,David Swetnam,train
+185,Jaipur,base_for,Vaman Ghiya,train
+186,James Garriock,partnered,Terry Rossiter,train
+187,Jane Costello Goldberg,sold_antiquities_to,Metropolitan Museum of Art,train
+188,Japan,transit_point_for,El Salvadore,train
+189,Japanese dealers,smuggled_antiquities_from,Vietnam,train
+190,Jean Aurance,bought_from,Pierre Langlois,train
+191,Jequetepeque Valley,contains,Zona Arqueológica Cerro Dos Cabezas,train
+192,Jiri Frel,employed,Marion True,train
+193,Joel Malter,appraised_art_for,Robert Olson,train
+194,John Betts,appraised_art_for,Michael Ward Gallery,train
+195,Johnnie Brown Fell,bought_from,Jorge Alamilla,train
+196,Johnnie Fell,partnered,Clive Hollinshead,train
+197,Jonathan and Cari Markell,bought_from,Robert Olson,train
+198,Jordan Eth,partnered,Bill Verick,train
+199,Jorge Alamilla,partnered,Clive Hollinshead,train
+200,Joseph Garner,related_to,Edward Johnson,train
+201,Joseph Garnish,consigned_through,Bonhams,train
+202,Josué Sáenz,implicated_with,Everett Rassiga,train
+203,José Luis Várez Fisa,bought_from,Giacomo Medici,train
+204,Juan Luis Pereira,sold_antiquities_to,Metropolitan Museum of Art,train
+205,Juan Pedro Laporte,worked_for,Proyecto Nacional Tikal,train
+206,Julie Jones,curator_of,Museum of Primitive Art,train
+207,Julio Ullilén,stole,Laguna de los Cóndores,train
+208,Justin Kerr,owned,Maya Vase Database,train
+209,Kirit L Mankodi,worked_for,Indian High Commissions,train
+210,Korban and Tkalec,sold_antiquities_to,Marquess of Northampton,train
+211,La Mina,origin_for,Moche headdress,train
+212,Laguna de los Cóndores,looted_by,Julio Ullilén,train
+213,Larisa Zavadskaya,curator_of,Hermitage,train
+214,Las Limas,home_of,Rosa Manuel Pascual,train
+215,Las Limas Monument 1,taken_from,Xalapa,train
+216,Leon J Buki,sold_antiquities_to,Metropolitan Museum of Art,train
+217,Leonardo Patterson,hired,Donald Hales,train
+218,Loma Negra,origin_for,Moche pieces,train
+219,London,auctioned_for,Sotheby's,train
+220,Los Angeles,base_for,Bobbyo Imports,train
+221,Los Angeles County Museum of Art,received_antiquities_from,Jonathan and Cari Markell,train
+222,Los Angeles International Airport,transit_point_for,Michael Kelly,train
+223,Luigi Coppola,partnered,Pasquale Camera,train
+224,Lyssipos,from_culture,Sicyon,train
+225,MacLean,bought_from,Robert Olson,train
+226,Macahquilá Stela 2,repatriated_to,Guatemala,train
+227,Machaquilá Stela 2,looted_by,Jorge Alamilla,train
+228,Machaquilá Stela 5,looted_by,Harry Brown,train
+229,Malter Galleries,employed,Joel Malter,train
+230,Mansur Mokhtarzade,partnered,Anton Tkalec,train
+231,Mariane Yaldiz,president_of,Museum für Indische Kunst,train
+232,Mario Bruno,partnered,Gianfranco Becchina,train
+233,Marion True,curator_of,J Paul Getty Museum,train
+234,Marjorie Neikrug,partnered,Leonardo Patterson,train
+235,Marquess of Northampton,represented_by,Abraham Trust,train
+236,Marquess of Northampton,sued,Peter Mimpriss,train
+237,Marquis of Tavistock,consigned_through,Bonhams,train
+238,Mat Securitas,accepted_material_from,Giacomo Medici,train
+239,Mathura,base_for,Vaman Ghiya,train
+240,Maurice Tempelsman,bought_from,Giacomo Medici,train
+241,Maya Vase Database,belonged_to,Justin Kerr,train
+242,Maya pottery,was_in,Museum of Fine Arts,train
+243,Megavena,belonged_to,Vaman Ghiya,train
+244,Melfi vases,looted_by,Luigi Coppola,train
+245,Mensun Bound,partnered,Ong Soo Hin,train
+246,Merrin Gallery,belonged_to,Edward Merrin,train
+247,Miami,base_for,Clive Hollinshead,train
+248,Michael Kelly,director_of,Art Collections Conservation Network,train
+249,Michael Milken,donated_to,J Paul Getty Museum,train
+250,Michael Ratner,partnered,Bill Verick,train
+251,Michael Rockefeller,bought_from,Andre Emmerich Gallery,train
+252,Michael Ward,consigned_through,Michael Ward Gallery,train
+253,Michael Ward Gallery,offered_for_sale,Mycenaean objects,train
+254,Michael Webb,donated_to,Elizabeth Shee Twohig,train
+255,Michigan-based Orpheus Art,acquired,Predynastic opium poppy vase,train
+256,Miguel de Osma Berckemeyer,bought_from,Fred Drew,train
+257,Miho Museum,bought_from,Noriyoshi Horiuchi,train
+258,Milwaukee,base_for,Glenn Rittenour,train
+259,Ministry of Culture,partnered,Trinh Cao Tuong,train
+260,Minneapolis Institute of Arts,bought_from,Stendahl Galleries,train
+261,Mint Museum of Art,possessed,a vase,train
+262,Moche headdress,looted_from,La Mina,train
+263,Moche pieces,bought_from,Raúl Apesteguía,train
+264,Morgantina,origin_for,Morgantina Venus,train
+265,Morgantina Venus,held_by,Orazio di Simone,train
+266,Morley Museum,regained,unprovenienced vessel,train
+267,Munich,base_for,Antonio ‘Nino' Savoca,train
+268,Muriel Newman,worked_for,Dikran Sarrafian,train
+269,Museo Nacional de Arqueología e Etnología,partnered,Denver Art Museum,train
+270,Museum für Indische Kunst,acquired,Uma Maheshwar,train
+271,Museum of Ethnography,employed,Olof Hansson,train
+272,Museum of Fine Arts,possessed,Maya pottery,train
+273,Nasher Museum of Art,possessed,a vase,train
+274,National Museum,regained,Weary Herakles,train
+275,National Museum of Anthropology,employed,Román Piña Chan,train
+276,National Museum of Ireland,partnered,Elizabeth Shee Twohig,train
+277,Nelson Rockefeller,acquired,Loma Negra,train
+278,Nepal,origin_for,Hindu,train
+279,New York,auctioned_for,Sotheby's,train
+280,New York Times,employed,William Grimes,train
+281,Niels Heidenreich,stole,Golden Horns,train
+282,Nikolas Koutoulakis,hired,Giacomo Medici,train
+283,Nikolay Zavadsky,looted_from,Hermitage,train
+284,Noriyoshi Horiuchi,bought_from,Gianfranco Becchina,train
+285,Occupants of the modern village of,stole,Ban Chiang,train
+286,Occupants of the modern village of Ban Chiang,smuggled_antiquities_through,Udon,train
+287,Olmec,from_culture,Puebla,train
+288,Olof Hansson,operated_in,British Columbia,train
+289,Ong Soo Hin,consigned_through,Butterfields,train
+290,Oxford University-based,employed,Mensun Bound,train
+291,PIASA,partnered,Rupert Wace,train
+292,Pablo Soldi,sold_antiquities_to,American Museum of Natural History,train
+293,Pasquale Camera,implicated_by,Medici Polaroid,train
+294,Patan Museum,regained,Uma Maheshwar,train
+295,Paul Clifford,appraised_art_for,Leonardo Patterson,train
+296,Paul Truel,bought_from,Pablo Soldi,train
+297,Pereda,bought_from,Emil Bernal,train
+298,Perge,origin_for,Weary Herakles,train
+299,Perth,base_for,Ong Soo Hin,train
+300,Peru,home_of,Raúl Apesteguía,train
+301,Peter Mimpriss,sued_by,Marquess of Northampton,train
+302,Peter Wilson,employed,Peter Mimpriss,train
+303,Philip Wilson,represented_by,Abraham Trust,train
+304,Phoenix Ancient Art,consigned_through,Sotheby's,train
+305,Pierre Langlois,bought_from,Earl Stendahl,train
+306,Piotr Jaxa,worked_for,Rolex Awards Website,train
+307,Placeres,looted_by,Everett Rassiga,train
+308,Portakalci,partnered,US Air Force,train
+309,Precolumbian art,verified_by,Paul Clifford,train
+310,Precolumbian figurines,looted_by,Leonardo Patterson,train
+311,Predynastic opium poppy vase,purchased_by,Michigan-based Orpheus Art,train
+312,Princeton University Art Museum,bought_from,Gianfranco Becchina,train
+313,Provincial Archaeological Museum,acquired,Silver Hoard of Everbeek,train
+314,Proyecto Arqueológico El Zotz,employed,Stephen Houston,train
+315,Proyecto Nacional Tikal,employed,Juan Pedro Laporte,train
+316,Puebla,origin_for,Olmec,train
+317,Raffaele Monticelli,worked_for,Gianfranco Becchina,train
+318,Rainer Zietz,belonged_to,Peter Wilson,train
+319,Rajan Mathai,partnered,Indian High Commissions,train
+320,Raúl Apesteguía,lived_in,Peru,train
+321,Renzo Canavesi,implicated_with,Orazio di Simone,train
+322,Riddi Pradhan,president_of,Department of Archaeology,train
+323,Robert Hecht,bought_from,Dikran Sarrafian,train
+324,Robert Olson,sold_antiquities_from,Asia,train
+325,Robert P Mitchell,worked_for,Boston Museum of Fine Arts,train
+326,Robin Symes,acquired,Morgantina Venus,train
+327,Roger Cornelius Russell Yorke,operated_in,Truro,train
+328,Rolex Awards Website,employed,Piotr Jaxa,train
+329,Rome,base_for,Giacomo Medici,train
+330,Román Piña Chan,worked_for,National Museum of Anthropology,train
+331,Rosa Manuel Pascual,lived_in,Las Limas,train
+332,Rosie Becchina,partnered,Gianfranco Becchina,train
+333,Roxanna Brown,appraised_art_for,Jonathan and Cari Markell,train
+334,Royal Athena Galleries,sold_antiquities_to,J Paul Getty Museum,train
+335,Royal Canadian Mounted Police,raided,Roger Cornelius Russell Yorke,train
+336,Russian State Archive of Literature and Art,employed,Yakov Chernikov,train
+337,Rycroft Collection,implicated_by,Medici Polaroid,train
+338,SPGH,given_by,Michael Ward,train
+339,Saga Horizon,belonged_to,Ong Soo Hin,train
+340,Salvadoran antiquities,shipped_to,Japan,train
+341,Samuel Schweitzer,implicated_by,Medici Polaroid,train
+342,San Antonio,transit_point_for,Señor de Las Limas,train
+343,San Miguel la Palotada National Park,contains,El Zotz,train
+344,San Saba,origin_for,sarcophagus,train
+345,Sands of Time,employed,Sue McGovern,train
+346,Santa Barbara Museum of Art,received_antiquities_from,Charles Craig,train
+347,Saqqara,robbed_of,alabaster duck vessels,train
+348,Saudi Arabia,transit_point_for,El Salvadore,train
+349,Second century AD copy of a head of Diadoumenos by Polykleitos,taken_from,excavation storeroom at Venosa,train
+350,Sevso Treasure,belonged_to,Marquess of Northampton,train
+351,Sezai Portakalci,sold_antiquities_to,Joel Malter,train
+352,Señor de Las Limas,shipped_to,San Antonio,train
+353,Shelby White,acquired,second Euphronios krater,train
+354,Sicily,base_for,Orazio di Simone,train
+355,Sicyon,origin_for,Lyssipos,train
+356,Silk Roads Gallery,belonged_to,Jonathan and Cari Markell,train
+357,Silver Hoard of Everbeek,donated_to,Provincial Archaeological Museum,train
+358,Singapore,base_for,Bobbyo Imports,train
+359,Sipán,looted_by,Pereda,train
+360,Sotheby's,accepted_material_from,Giacomo Medici,train
+361,Sotheby's,returned,Empress Dou Figurines,train
+362,South America,base_for,Roger Cornelius Russell Yorke,train
+363,Spain,transit_point_for,Leonardo Patterson,train
+364,Stanley Boggs,operated_in,El Salvador,train
+365,Stela 3,looted_from,Xultún,train
+366,Stendahl Galleries,sold_antiquities_to,Minneapolis Institute of Arts,train
+367,Stephen Houston,worked_for,Proyecto Arqueológico El Zotz,train
+368,Steve Bourget,operated_in,Dos Cabezas,train
+369,Steven Berger,partnered,Roger Cornelius Russell Yorke,train
+370,Sue McGovern,curator_of,Sands of Time,train
+371,Supreme Court,investigated,Michael Webb,train
+372,Susan Lerer,partnered,Joel Malter,train
+373,Sweden,acquired,totem pole,train
+374,Swiss Air,operated_in,JFK Airport,train
+375,Switzerland,base_for,Giacomo Medici,train
+376,Sylvanus Morley,partnered,Carl Cuthe,train
+377,Syria,looted_by,Giacomo Medici,train
+378,Tecafin Fiduciaire,accepted_material_from,Giacomo Medici,train
+379,Ted Wiener,bought_from,Clive Hollinshead,train
+380,Temple 1,origin_for,El Zotz Wooden Lintel,train
+381,Terry Rossiter,partnered,James Garriock,train
+382,Thai Fine Arts Department,partnered,University of Pennsylvania Museum,train
+383,Thailand,base_for,Robert Olson,train
+384,Thomas Hoving,president_of,Metropolitan Museum of Art,train
+385,Toi moko,belonged_to,Marquis of Tavistock,train
+386,Toledo Museum of Art,bought_from,Gianfranco Becchina,train
+387,Tom Wilson,represented_by,Abraham Trust,train
+388,Trinh Cao Tuong,partnered,Ministry of Culture,train
+389,Trujillo,base_for,Enrico Poli,train
+390,Truro,base_for,Roger Cornelius Russell Yorke,train
+391,Turkey,partnered,United States Customs,train
+392,US Air Force,partnered,Portakalci,train
+393,US Army,employed,Edward Johnson,train
+394,US Homeland Security,investigated,John Eskenazi,train
+395,Udon,base_for,United States,train
+396,Uma Maheshwar,looted_from,Wotol,train
+397,University College Cork,employed,Elizabeth Shee Twohig,train
+398,University of Florida,employed,William Bullard,train
+399,University of Pennsylvania,employed,Chester Gorman,train
+400,University of Pennsylvania Museum,partnered,Thai Fine Arts Department,train
+401,Vaman Ghiya,consigned_through,Christie's,train
+402,Vancouver,transit_point_for,David Swetnam,train
+403,Vasek Polak,implicated_with,Samuel Schweitzer,train
+404,Velzeke Provincial Archaeological Museum,probed_by,Flanders Heritage Agency,train
+405,Vicús,transfered_to,Metropolitan Museum of Art,train
+406,Vietnam,looted_by,Japanese,train
+407,Vietnamese Institute of Archaeology,employed,Trinh Cao Tuong,train
+408,Vietnamese Salvage Agency,partnered,Ong Soo Hin,train
+409,Vilasgarh temple,origin_for,red sandstone figure of a Jina,train
+410,Villa Giulia,regained,Euphronios ( Sarpedon ) krater,train
+411,Vladimir Mefty,was_in,London,train
+412,Wallis Gallery,bought_from,Sands of Time,train
+413,Wayne Anderson,bought_from,Leonardo Patterson,train
+414,Weary Herakles,displayed_at,Antalya Museum,train
+415,William Bullard,worked_for,University of Florida,train
+416,William Grimes,worked_for,New York Times,train
+417,William Saturno,worked_for,Boston University,train
+418,Wotol,origin_for,Uma Maheshwar,train
+419,Xalapa,robbed_of,Las Limas Monument 1,train
+420,Xultún,base_for,Sylvanus Morley,train
+421,Xultún,probed_by,Carnegie Institute,train
+422,Yakov Chernikov,worked_for,Russian State Archive of Literature and Art,train
+423,Zeugma,origin_for,mosaic floor,train
+424,Zona Arqueológica Cerro Dos Cabezas,part_of,Jequetepeque Valley,train
+425,a collector from Chiasso,sold_antiquities_to,Robin Symes,train
+426,a vase,donated_to,Mint Museum of Art,train
+427,alabaster duck vessels,held_by,PIASA,train
+428,archaeological artefacts,bought_from,Robert Olson,train
+429,baby-face figure,looted_from,Las Bocas,train
+430,eBay,auctioned_for,Hoi An ceramics,train
+431,excavation storeroom,robbed_of,Second century AD copy of a head of Diadoumenos by Polykleitos,train
+432,fake monumental head,bought_from,Leonardo Patterson,train
+433,figural carvings,bought_from,Leonardo Patterson,train
+434,gold jewelry,bought_from,Michael Ward Gallery,train
+435,mask made of fuschite depicting the sun god,displayed_at,Barbier-Mueller Pre-Columbian Art Museum,train
+436,mosaic floor,looted_from,Zeugma,train
+437,red sandstone figure of a Jina,looted_by,Vaman Ghiya,train
+438,red-figure krater by Asteas,bought_from,Gianfranco Becchina,train
+439,red-on-buff decorated pottery,looted_from,Ban Chiang,train
+440,sacred textiles,looted_by,Roger Cornelius Russell Yorke,train
+441,sarcophagus,consigned_through,Editions Services,train
+442,sculptural material,looted_from,Xultún,train
+443,sculptures,looted_from,Hindu,train
+444,sea turtle eggs,looted_by,Leonardo Patterson,train
+445,sealstones,purchased_by,Michael Ward Gallery,train
+446,second Euphronios krater,purchased_by,Leon Levy,train
+447,statuary,looted_from,Zeugma,train
+448,torso of a second century AD statue of the god,looted_from,Italian Giustiniani Collection,train
+449,totem pole,purchased_by,Sweden,train
+450,unprovenienced vessel,repatriated_to,Morley Museum,train
+451,warehouse,belonged_to,Robert Olson,train
+452,Fleischman Collection,given_by,Lawrence Fleischman,train
+453,Hoi An,bought_from,Captain Trang,train
+454,Giacomo Medici,caught_by,Carabinieri,train
+455,Phoenix Ancient Art,was_in,New York,train
+456,Weary Herakles,repatriated_to,National Museum,train
+457,Benjamin Bishop Johnson,partnered,Michael Kelly,train
+458,Marion True,implicated_with,Barbara Fleischman,train
+459,Immigration and Customs Enforcement,investigated,Phoenix Ancient Art,train
+460,Jack Ogden,partnered,Cambridge Centre for Precious Metal Research,train
+461,Robert Olson,sold_antiquities_to,MacLean,train
+462,J Paul Getty Museum,bought_from,Hydra Gallery,train
+463,Guatemala,regained,El Zotz Wooden Lintel,train
+464,Charles Craig,worked_for,Crocker Bank,train
+465,Museo Nacional de Arqueología e Etnología,regained,El Zotz Wooden Lintel,train
+466,Jorge Alamilla,sold_antiquities_to,Ed Dwyer,train
+467,sacred textiles,looted_by,Steven Berger,train
+468,Berry & Stark Associates,acquired,El Zotz Wooden Lintel,train
+469,Weary Herakles,repatriated_to,Antalya,train
+470,Medici Polaroid,implicates,Maurice Tempelsman,train
+471,Gianfranco Becchina,sold_antiquities_to,Dietrich von Bothmer,train
+472,Euphronios ( Sarpedon ) krater,purchased_by,Metropolitan Museum of Art,train
+473,Metropolitan Museum of Art,acquired,Euphronios ( Sarpedon ) krater,train
+474,Samuel Schweitzer,sold_antiquities_to,J Paul Getty Museum,train
+475,Alistair McAlpine,sold_antiquities_to,British Museum,train
+476,Charles Craig,donated_to,Santa Barbara Museum of Art,train
+477,Robin Symes,partnered,Giacomo Medici,train
+478,Vladimir Mefty,worked_for,CID,train
+479,Everett Rassiga,stole,Placeres,train
+480,David Swetnam,partnered,Miguel de Osma Berckemeyer,train
+481,Orazio di Simone,operated_in,Switzerland,train
+482,Hoi An,looted_by,Captain Trang,train
+483,Michael Ward Gallery,sold,gold jewelry,train
+484,Gianfranco Becchina,sold_antiquities_to,Shelby White,train
+485,Vaman Ghiya,sold_antiquities_in,New York,train
+486,Butterfields,sold_antiquities_to,"""a Seattle museum""",train
+487,Leon Levy,bought_from,Dikran Sarrafian,train
+488,Los Angeles,base_for,Robert Olson,train
+489,Museum of Primitive Art,donated_to,Metropolitan Museum of Art,train
+490,Clive Hollinshead,bought_from,Harry Brown,train
+491,Marquess of Northampton,owned,Sevso Treasure,train
+492,Clive Hollinshead,operated_in,Miami,train
+493,Edward Merrin,owned,El Zotz Wooden Lintel,train
+494,Las Bocas,origin_for,baby-face figure,train
+495,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",looted_from,Cerveteri,train
+496,New York,base_for,Phoenix Ancient Art,train
+497,Switzerland,transit_point_for,Euphronios ( Sarpedon ) krater,train
+498,Rainer Zietz,represented_by,Abraham Trust,train
+499,La Mina,origin_for,Moche pieces,train
+500,Fleischman Collection,bought_from,Atlantis Antiquities,train
+501,Steven Berger,smuggled_antiquities_to,Roger Cornelius Russell Yorke,train
+502,New York,base_for,André Emmerich,train
+503,Giacomo Medici,appraised_art_for,Nikolas Koutoulakis,train
+504,David Swetnam,smuggled_antiquities_through,Canada,train
+505,Johnnie Brown Fell,smuggled_antiquities_to,New York,train
+506,Moche pieces,from_culture,La Mina,train
+507,El Zotz Wooden Lintel,returned_by,Denver Art Museum,train
+508,Sotheby's,probed_by,United States Customs,train
+509,Ban Chiang,looted_by,Occupants of the modern village of Ban Chiang,train
+510,Ed Dwyer,rejected_by,Leonardo Patterson,train
+511,Indian High Commissions,partnered,Rajan Mathai,train
+512,Medici Polaroid,implicates,Samuel Schweitzer,train
+513,United States Customs,investigated,David Swetnam,train
+514,Athens,origin_for,Euphronios ( Sarpedon ) krater,train
+515,Barbara Fleischman,sold_antiquities_to,J Paul Getty Museum,train
+516,Giacomo Medici,sold_antiquities_to,Boston Museum of Fine Arts,train
+517,Museum of Primitive Art,bought_from,Leon J Buki,train
+518,Peter Wilson,owned,Rainer Zietz,train
+519,Barry MacLean,acquired,Ban Chiang pottery,train
+520,Emil Bernal,sold_antiquities_to,Pereda,train
+521,Barbara Fleischman,bought_from,Giacomo Medici,train
+522,Geneva,base_for,Christian Boursaud,train
+523,David Swetnam,smuggled_antiquities_through,Vancouver,train
+524,Metropolitan Museum of Art,bought_from,Giacomo Medici,train
+525,Ramiz Rizk,worked_for,Abraham Trust,train
+526,Italy,regained,second Euphronios krater,train
+527,Christian Boursaud,partnered,Giacomo Medici,train
+528,Pasquale Camera,implicated_with,Giacomo Medici,train
+529,Berry & Stark Associates,gave,El Zotz Wooden Lintel,train
+530,Michael Webb,probed_by,Supreme Court,train
+531,J Paul Getty Museum,bought_from,Samuel Schweitzer,train
+532,Hermitage,looted_by,Larisa Zavadskaya,train
+533,Anton Tkalec,partnered,Mansur Mokhtarzade,train
+534,British Museum,bought_from,Butterfields,train
+535,Dikran Sarrafian,partnered,Robert Hecht,train
+536,Harry Brown,related_to,Johnnie Brown Fell,train
+537,red-on-buff decorated pottery,shipped_to,United States,train
+538,Robert Hecht,partnered,Gianfranco Becchina,train
+539,Metropolitan Museum of Art,bought_from,Leon J Buki,train
+540,Denver Art Museum,received_antiquities_from,El Zotz Wooden Lintel,train
+541,Dikran Sarrafian,sold_antiquities_to,Robert Hecht,train
+542,Geneva,belonged_to,Giacomo Medici,train
+543,Paul Clifford,authenticated,Precolumbian art,train
+544,Robert Olson,consigned_through,eBay,train
+545,Robert Olson,sold_antiquities_to,Jonathan and Cari Markell,train
+546,western-most ( farthest right ) maithuna,taken_from,Atru,train
+547,Galerie Nefer,employed,Frieda Tchacos,train
+548,Edward Merrin,probed_by,New York Times,train
+549,Machaquilá Stela 5,repatriated_to,Guatemala,train
+550,Alexander Yerofeyev,bought_from,Larisa Zavadskaya,train
+551,Glenn Rittenour,refused,Ed Dwyer,train
+552,Robert Hecht,implicated_with,Marion True,train
+553,United States,operated_in,Udon,train
+554,J Paul Getty Museum,bought_from,Barbara Fleischman,train
+555,Vicús,looted_from,Loma Negra,train
+556,Anton Tkalec,sold_antiquities_to,Art Consultancy,train
+557,Atlantis Antiquities,belonged_to,Fritz Bürki,train
+558,Fritz Bürki,partnered,Robert Hecht,train
+559,Christian Boursaud,operated_in,Geneva,train
+560,Robert Olson,partnered,Armand Labbé,train
+561,Metropolitan Museum of Art,consigned_through,Sotheby's,train
+562,Medici Polaroid,implicates,Robin Symes,train
+563,Medici Polaroid,implicates,Barbara Fleischman,train
+564,Leonardo Patterson,sold,fake monumental head,train
+565,Dikran Sarrafian,employed,Muriel Newman,train
+566,alabaster duck vessels,returned_by,Christie's,train
+567,Renzo Canavesi,sold_antiquities_to,Robin Symes,train
+568,Jorge Alamilla,sold_antiquities_to,Johnnie Brown Fell,train
+569,Sweden,base_for,Olof Hansson,train
+570,Vaman Ghiya,stored_antiquities_in,Jaipur,train
+571,Abraham Trust,acted_for,Tom Wilson,train
+572,Cu Lao Cham,looted_by,Captain Trang,train
+573,Peter Mimpriss,worked_for,Peter Wilson,train
+574,Brendan Lynch,worked_for,Sotheby's,train
+575,Museum of Primitive Art,bought_from,Alan C Lapiner,train
+576,Robert Hecht,sold_antiquities_to,Boston Museum of Fine Arts,train
+577,J Paul Getty Museum,returned,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",train
+578,Shelby White,bought_from,Gianfranco Becchina,train
+579,El Zotz Wooden Lintel,looted_from,El Zotz,train
+580,Moche pieces,from_culture,Loma Negra,train
+581,Renzo Canavesi,operated_in,Switzerland,train
+582,Metropolitan Museum of Art,bought_from,Jane Costello Goldberg,train
+583,Mat Securitas,belonged_to,Giacomo Medici,train
+584,Sotheby's,raided_by,United States Customs,train
+585,El Zotz Wooden Lintel,purchased_by,Berry & Stark Associates,train
+586,London,base_for,Robin Symes,train
+587,Michael Ward,gave,SPGH,train
+588,Sotheby's,auctioned_for,Gianfranco Becchina,train
+589,Euphronios ( Sarpedon ) krater,created_by,Euxitheos,train
+590,Pereda,sold_antiquities_to,Enrico Poli,train
+591,Pablo Soldi,sold_antiquities_to,Paul Truel,train
+592,Robert Hecht,bought_from,Nikolas Koutoulakis,train
+593,mask made of fuschite depicting the sun god,purchased_by,Peter G Wray,train
+594,Michael Kelly,smuggled_antiquities_through,Los Angeles International Airport,train
+595,Moche pieces,consigned_through,David Bernstein,train
+596,Giacomo Medici,smuggled_antiquities_from,Syria,train
+597,Miguel de Osma Berckemeyer,partnered,Fred Drew,train
+598,Clive Hollinshead,sold_antiquities_to,Ted Wiener,train
+599,Loma Negra,origin_for,Vicús,train
+600,Frieda Tchacos,partnered,Pasquale Camera,train
+601,Euphronios ( Sarpedon ) krater,repatriated_to,Villa Giulia,train
+602,J Paul Getty Museum,acquired,Fleischman Collection,train
+603,Michael Ward Gallery,belonged_to,Michael Ward,train
+604,sacred textiles,looted_from,Coroma,train
+605,Butterfields,sold_antiquities_to,"""a Los Angeles museum""",train
+606,Larisa Zavadskaya,looted_from,Hermitage,train
+607,Weary Herakles,displayed_at,Metropolitan Museum of Art,train
+608,Bonhams,auctioned_for,Joseph Garnish,train
+609,Gianfranco Becchina,partnered,Mario Bruno,train
+610,Giacomo Medici,owned,Geneva,train
+611,Julie Jones,partnered,Anne-Louise Schaffer,train
+612,Frieda Tchacos,partnered,Giacomo Medici,train
+613,Leon Levy,donated_to,Boston Museum of Fine Arts,train
+614,United States,transit_point_for,El Zotz Wooden Lintel,train
+615,Denver Art Museum,received_antiquities_from,Berry & Stark Associates,train
+616,Robert Olson,partnered,Joel Malter,train
+617,Geoffrey Jenkinson,partnered,Abraham Trust,train
+618,El Zotz,origin_for,El Zotz Wooden Lintel,train
+619,Atlantis Antiquities,sold_antiquities_to,Fleischman Collection,train
+620,Gianfranco Becchina,sold_antiquities_to,Toledo Museum of Art,train
+621,Ed Dwyer,rejected_by,Glenn Rittenour,train
+622,Michael Ward Gallery,hired,John Betts,train
+623,Sotheby's,auctioned_for,Phoenix Ancient Art,train
+624,John Cummings,implicated_with,Christie's,train
+625,Morgantina Venus,shipped_to,Switzerland,train
+626,J Paul Getty Museum,bought_from,Robin Symes,train
+627,Sevso Plate,held_by,Anton Tkalec,train
+628,Lawrence Fleischman,implicated_with,Marion True,train
+629,Captain Trang,sold_antiquities_to,Hoi An,train
+630,Robert Olson,bought_from,Thailand,train
+631,Museum of Primitive Art,employed,Anne-Louise Schaffer,train
+632,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",returned_by,J Paul Getty Museum,train
+633,Antonio ‘Nino' Savoca,sold_antiquities_to,Frieda Tchacos,train
+634,Museum of Anthropology,robbed_of,Señor de Las Limas,train
+635,London,auctioned_for,Vaman Ghiya,train
+636,Fritz Bürki,owned,Atlantis Antiquities,train
+637,Giacomo Medici,stored_antiquities_in,Geneva storerooms,train
+638,David Swetnam,sold_antiquities_to,Charles Craig,train
+639,Fred Drew,sold_antiquities_to,Miguel de Osma Berckemeyer,train
+640,Boston Museum of Fine Arts,bought_from,Giacomo Medici,train
+641,Enrico Poli,was_in,Trujillo,train
+642,Roger Cornelius Russell Yorke,was_in,South America,train
+643,Dos Cabezas,probed_by,Departamento de Monumentos Arqueológicos,train
+644,Barbara Fleischman,bought_from,Robin Symes,train
+645,Giacomo Medici,consigned_through,Sotheby's,train
+646,Roger Cornelius Russell Yorke,partnered,Steven Berger,train
+647,Mensun Bound,worked_for,Oxford University-based,train
+648,Cambridge Centre for Precious Metal Research,partnered,Jack Ogden,train
+649,Michael Rockefeller,donated_to,Museum of Primitive Art,train
+650,Ed Dwyer,smuggled_antiquities_to,New York,train
+651,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",looted_by,Giacomo Medici,train
+652,Geneva,raided_by,Carabinieri,train
+653,Hôtel des Ventes,auctioned_for,Hervé Poulin,train
+654,John Cummings,implicated_with,Alistair McAlpine,train
+655,Leon Levy,bought_from,Giacomo Medici,train
+656,Leon J Buki,sold_antiquities_to,Museum of Primitive Art,train
+657,Museum of Primitive Art,bought_from,Jane Costello Goldberg,train
+658,Orazio di Simone,possessed,Morgantina Venus,train
+659,Pablo Soldi,stole,Ica Valley,train
+660,Olmec,looted_from,Las Bocas,train
+661,Ong Soo Hin,partnered,Mensun Bound,train
+662,Switzerland,base_for,Orazio di Simone,train
+663,Edward Merrin,operated_in,New York,train
+664,Vaman Ghiya,owned,Artistic Imports Corporation ),train
+665,Shelby White,bought_from,Giacomo Medici,train
+666,Ong Soo Hin,sold_antiquities_to,Butterfields,train
+667,Salvadoran antiquities,shipped_to,United States,train
+668,Jorge Alamilla,stole,Machaquilá Stela 2,train
+669,alabaster duck vessels,taken_from,Saqqara,train
+670,Robin Symes,implicated_by,Medici Polaroid,train
+671,Michael Ward,owned,Michael Ward Gallery,train
+672,Leonardo Patterson,sold_antiquities_to,Wayne Anderson,train
+673,J Paul Getty Museum,returned,Morgantina Venus,train
+674,Robert Hecht,sold_antiquities_to,J Paul Getty Museum,train
+675,Giacomo Medici,smuggled_antiquities_to,Switzerland,train
+676,Giacomo Medici,owned,Antiquaria Romana,train
+677,Gianfranco Becchina,implicated_with,Pasquale Camera,train
+678,Anne-Louise Schaffer,partnered,Julie Jones,train
+679,United States Customs,raided,Sotheby's,train
+680,Art Gallery of New South Wales,bought_from,Butterfields,train
+681,Butterfields,auctioned_for,Ong Soo Hin,train
+682,Butterfields,sold_antiquities_to,"""a Phoenix museum""",train
+683,Rupert Wace,partnered,PIASA,train
+684,Clive Hollinshead,transit_point_for,Harry Brown,train
+685,Carabinieri,raided,Robert Hecht,train
+686,Frieda Tchacos,worked_for,Galerie Nefer,train
+687,Giacomo Medici,partnered,Christian Boursaud,train
+688,David Swetnam,partnered,Fred Drew,train
+689,PIASA,sold_antiquities_to,Rupert Wace,train
+690,Halim Korban,partnered,Mansur Mokhtarzade,train
+691,Barbara Fleischman,implicated_by,Medici Polaroid,train
+692,Jonathan and Cari Markell,owned,Silk Roads Gallery,train
+693,Marquis of Tavistock,owned,Toi moko,train
+694,Peter Wilson,represented_by,Abraham Trust,train
+695,Sylvanus Morley,was_in,Cancuén,train
+696,Giacomo Medici,sold_antiquities_to,Metropolitan Museum of Art,train
+697,Miguel de Osma Berckemeyer,partnered,David Swetnam,train
+698,Pasquale Camera,implicated_with,Gianfranco Becchina,train
+699,Greece,looted_by,Giacomo Medici,train
+700,Giacomo Medici,owned,Hydra Gallery,train
+701,Ed Dwyer,rejected_by,Brooklyn Museum,train
+702,Metropolitan Museum of Art,bought_from,Gianfranco Becchina,train
+703,Boston Museum of Fine Arts,bought_from,Robert Hecht,train
+704,Gianfranco Becchina,sold_antiquities_to,Merrin Gallery,train
+705,Munich,transit_point_for,Leonardo Patterson,train
+706,Sotheby's,auctioned_for,Giacomo Medici,train
+707,Antike Kunst Palladion,sold_antiquities_to,J Paul Getty Museum,train
+708,Dikran Sarrafian,sold_antiquities_to,Leon Levy,train
+709,Italy,regained,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",train
+710,Clive Hollinshead,partnered,Johnnie Fell,train
+711,Edward Merrin,owned,Merrin Gallery,train
+712,Giacomo Medici,smuggled_antiquities_from,Asia,train
+713,Christian Boursaud,worked_for,Hydra Gallery,train
+714,Morgantina Venus,looted_by,Orazio di Simone,train
+715,Denver Art Museum,returned,El Zotz Wooden Lintel,train
+716,Medici Polaroid,implicates,Gianfranco Becchina,train
+717,Flanders,part_of,Belgium,train
+718,André Emmerich,operated_in,New York,train
+719,Robin Symes,sold_antiquities_to,J Paul Getty Museum,train
+720,Carabinieri,investigated,Marion True,train
+721,André Emmerich,sold_antiquities_to,Detroit Institute of Art,train
+722,Marion True,implicated_with,Robert Hecht,train
+723,red sandstone figure of a Jina,looted_from,Vilasgarh temple,train
+724,Maurice Tempelsman,bought_from,Robin Symes,train
+725,New York,transit_point_for,Johnnie Brown Fell,train
+726,Michael Ward Gallery,auctioned_for,Michael Ward,train
+727,Giacomo Medici,owned,Mat Securitas,train
+728,J Paul Getty Museum,bought_from,Maurice Tempelsman,train
+729,David Bernstein,lived_in,New York,train
+730,Robert Olson,owned,Bobbyo Imports,train
+731,Giacomo Medici,sold_antiquities_to,Hunt brothers,train
+732,Peru,looted_by,David Swetnam,train
+733,Fleischman Collection,given_by,Barbara Fleischman,train
+734,Sotheby's,auctioned_for,Marquis of Tavistock,train
+735,Michael Kelly,worked_for,David Swetnam,train
+736,western-most ( farthest right ) maithuna,shipped_to,Hong Kong,train
+737,Gianfranco Becchina,sold_antiquities_to,Leon Levy,train
+738,Gianfranco Becchina,sold,red-figure krater by Asteas,train
+739,Art Collections Conservation Network,employed,Michael Kelly,train
+740,Art Loss Register,partnered,Sands of Time,train
+741,Hydra Gallery,belonged_to,Christian Boursaud,train
+742,Robert Olson,owned,warehouse,train
+743,Nelson Rockefeller,donated_to,Museum of Primitive Art,train
+744,Uma Maheshwar,repatriated_to,Patan Museum,train
+745,Pasquale Camera,implicated_with,Robert Hecht,train
+746,Leon Levy,bought_from,Gianfranco Becchina,train
+747,Museum of Fine Arts,received_antiquities_from,Shelby White,train
+748,Christie's,implicated_with,John Cummings,train
+749,Giacomo Medici,operated_in,Rome,train
+750,Moche pieces,looted_from,Dos Cabezas,train
+751,second Euphronios krater,purchased_by,Shelby White,train
+752,Medici Polaroid,implicates,Pasquale Camera,train
+753,Giacomo Medici,implicated_with,Pasquale Camera,train
+754,Temple 1,part_of,El Zotz,train
+755,El Zotz Wooden Lintel,looted_from,Temple 1,train
+756,Giacomo Medici,implicated_with,Marion True,train
+757,Vaman Ghiya,consigned_through,Sotheby's,train
+758,Abraham Trust,acted_for,Philip Wilson,train
+759,Barry MacLean,bought_from,Robert Olson,train
+760,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",bought_from,Frieda Tchacos,train
+761,Michael Kelly,partnered,Benjamin Bishop Johnson,train
+762,Olof Hansson,worked_for,Museum of Ethnography,train
+763,Giacomo Medici,sold_antiquities_to,Marion True,train
+764,Butterfields,sold_antiquities_to,British Museum,train
+765,Hydra Gallery,sold,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",train
+766,Metropolitan Museum of Art,received_antiquities_from,Museum of Primitive Art,train
+767,Giacomo Medici,sold_antiquities_to,Robert Hecht,train
+768,Robin Symes,operated_in,London,train
+769,J Paul Getty Museum,bought_from,Frieda Tchacos,train
+770,El Zotz Wooden Lintel,belonged_to,Edward Merrin,train
+771,Morgantina Venus,returned_by,J Paul Getty Museum,train
+772,El Zotz,part_of,San Miguel la Palotada National Park,train
+773,Hermitage,looted_by,Nikolay Zavadsky,train
+774,Provincial Archaeological Museum,received_antiquities_from,Silver Hoard of Everbeek,train
+775,Art Consultancy,bought_from,Mansur Mokhtarzade,train
+776,Robert Hecht,partnered,Giacomo Medici,train
+777,Robert Hecht,operated_in,Switzerland,train
+778,Hydra Gallery,sold_antiquities_to,J Paul Getty Museum,train
+779,Art Consultancy,bought_from,Halim Korban,train
+780,Peter G Wray,acquired,mask made of fuschite depicting the sun god,train
+781,Turkey,regained,Boston Museum of Fine Arts,train
+782,Leonardo Patterson,smuggled,Precolumbian figurines,train
+783,Johnnie Brown Fell,smuggled_antiquities_to,Clive Hollinshead,train
+784,Mansur Mokhtarzade,sold_antiquities_to,Art Consultancy,train
+785,Harry Brown,operated_in,Helena,train
+786,Miguel de Osma Berckemeyer,smuggled_antiquities_through,London,train
+787,Morgantina Venus,looted_from,Morgantina,train
+788,Dietrich von Bothmer,bought_from,Robert Hecht,train
+789,Vaman Ghiya,operated_in,India,train
+790,Gianfranco Becchina,sold_antiquities_to,George Ortiz,train
+791,Gianfranco Becchina,partnered,Robert Hecht,train
+792,Joel Malter,bought_from,Sezai Portakalci,train
+793,Boston Museum of Fine Arts,employed,Curator of Provenance,train
+794,Mansur Mokhtarzade,partnered,Halim Korban,train
+795,Bonhams,auctioned_for,Marquis of Tavistock,train
+796,El Zotz Wooden Lintel,repatriated_to,Museo Nacional de Arqueología e Etnología,train
+797,Dietrich von Bothmer,worked_for,Metropolitan Museum of Art,train
+798,Christie's,auctioned_for,Gianfranco Becchina,train
+799,Denver Art Museum,refused,Harry Brown,train
+800,Pasquale Camera,partnered,Luigi Coppola,train
+801,Robin Symes,bought_from,Renzo Canavesi,train
+802,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",bought_from,Hydra Gallery,train
+803,Michael Ward Gallery,hired,Jack Ogden,train
+804,Gianfranco Becchina,alias,Anna Spinello,train
+805,Hoi An,base_for,Captain Trang,train
+806,David Swetnam,smuggled_antiquities_from,Peru,train
+807,Metropolitan Museum of Art,investigated,Dikran Sarrafian,train
+808,Fritz Bürki,sold_antiquities_to,Fleischman Collection,train
+809,Shelby White,relationship_with,Leon Levy,train
+810,Giacomo Medici,consigned_through,Tecafin Fiduciaire,train
+811,Carabinieri,raided,Geneva storerooms,train
+812,J Paul Getty Museum,bought_from,Dietrich von Bothmer,train
+813,Salvadoran antiquities,shipped_to,Saudi Arabia,train
+814,dragon ewers,purchased_by,British Museum,train
+815,Uma Maheshwar,purchased_by,Museum für Indische Kunst,train
+816,Marquess of Northampton,related_to,Abraham Trust,train
+817,Edward Johnson,worked_for,US Army,train
+818,United Kingdom,base_for,David Swetnam,train
+819,Olof Hansson,operated_in,Sweden,train
+820,Michael Ward Gallery,acquired,sealstones,train
+821,Gianfranco Becchina,owned,Antike Kunst Palladion,train
+822,United States Customs,employed,Gaston Wallace,train
+823,Ong Soo Hin,partnered,Vietnamese Salvage Agency,train
+824,Luc Watrin,investigated,Bonhams,train
+825,Dietrich von Bothmer,sold_antiquities_to,J Paul Getty Museum,train
+826,Canada,transit_point_for,David Swetnam,train
+827,Harry Brown,smuggled,Machaquilá Stela 5,train
+828,Leonardo Patterson,smuggled_antiquities_through,Spain,train
+829,J Paul Getty Museum,acquired,Second century AD copy of a head of Diadoumenos by Polykleitos,train
+830,Dos Cabezas,origin_for,Moche pieces,train
+831,Bowers Museum,employed,Armand Labbé,train
+832,Gianfranco Becchina,sold_antiquities_to,Noriyoshi Horiuchi,train
+833,Carabinieri,raided,Giacomo Medici,train
+834,Peter Mimpriss,worked_for,Marquess of Northampton,train
+835,Captain Trang,stole,Hoi An,train
+836,Frieda Tchacos,sold,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",train
+837,Butterfields,belonged_to,eBay,train
+838,Marjorie Neikrug,refused,Ed Dwyer,train
+839,Giacomo Medici,smuggled_antiquities_from,Italy,train
+840,British Museum,employed,Dyfri Williams,train
+841,Thailand,source_for,Robert Olson,train
+842,Geneva-based Editions Services,belonged_to,Giacomo Medici,train
+843,John Cummings,bought_from,James Garriock,train
+844,Tecafin Fiduciaire,belonged_to,Giacomo Medici,train
+845,Giacomo Medici,sold_antiquities_to,Shelby White,train
+846,United States,partnered,Bolivia,train
+847,Immigration and Customs Enforcement,partnered,Art Loss Register,train
+848,Medici Polaroid,implicates,Giacomo Medici,train
+849,John Eskenazi,probed_by,US Homeland Security,train
+850,Harry Brown,sold_antiquities_to,Clive Hollinshead,train
+851,Ed Dwyer,sold_antiquities_to,Harry Brown,train
+852,Marion True,implicated_with,Lawrence Fleischman,train
+853,Harry Brown,smuggled_antiquities_to,Clive Hollinshead,train
+854,Jack Ogden,worked_for,Cambridge Centre for Precious Metal Research,train
+855,sarcophagus,looted_from,San Saba,train
+856,Marion True,received_antiquities_from,Robert Hecht,train
+857,Greece,regained,Aidonia_Greece Treasure,train
+858,Euphronios ( Sarpedon ) krater,looted_by,Giacomo Medici,train
+859,Roger Cornelius Russell Yorke,smuggled,sacred textiles,train
+860,Leonardo Patterson,smuggled,sea turtle eggs,train
+861,Robert Olson,hired,Joel Malter,train
+862,Bonhams,donated_to,Egyptian Embassy,train
+863,alabaster duck vessels,repatriated_to,Egypt,train
+864,Ed Dwyer,smuggled_antiquities_to,Clive Hollinshead,train
+865,Marion True,worked_for,Jiri Frel,train
+866,Steven Berger,smuggled,sacred textiles,train
+867,Pereda,partnered,Emil Bernal,train
+868,Vaman Ghiya,was_in,Jaipur,train
+869,Museum of Primitive Art,employed,Julie Jones,train
+870,Chester Gorman,worked_for,University of Pennsylvania,train
+871,Leon Levy,sold_antiquities_to,Shelby White,train
+872,Las Bocas,contains,Caballo Pintado,train
+873,Peter Wilson,owned,Art Consultancy,train
+874,Larisa Zavadskaya,relationship_with,Nikolay Zavadsky,train
+875,Giacomo Medici,sold_antiquities_to,Maurice Tempelsman,train
+876,Leonardo Patterson,partnered,Marjorie Neikrug,train
+877,Hillwood Museum,led_by,Barry Stern,train
+878,Giacomo Medici,partnered,Hischam Aboutaam,train
+879,British Museum,bought_from,Alistair McAlpine,train
+880,Sotheby's,repatriated_to,Chinese Embassy,train
+881,J Paul Getty Museum,acquired,red-figure krater by Asteas,train
+882,Bobbyo Imports,operated_in,Los Angeles,train
+883,Robin Symes,sold_antiquities_to,Maurice Tempelsman,train
+884,Everett Rassiga,sold_antiquities_to,Nelson Rockefeller,train
+885,Charles Craig,bought_from,David Swetnam,train
+886,Christie's,auctioned_for,Barry Stern,train
+887,Anton Tkalec,partnered,Halim Korban,train
+888,Metropolitan Museum of Art,bought_from,Juan Luis Pereira,train
+889,Robin Symes,relationship_with,Christos Michaelides,train
+890,Leonardo Patterson,smuggled_antiquities_to,Munich,train
+891,Leon Levy,acquired,second Euphronios krater,train
+892,Giacomo Medici,partnered,Robin Symes,train
+893,Guatemala,regained,Machaquilá Stela 5,train
+894,Leonardo Patterson,hired,Paul Clifford,train
+895,Joel Malter,partnered,Susan Lerer,train
+896,Robin Symes,bought_from,a collector from Chiasso,train
+897,Giacomo Medici,implicated_by,Medici Polaroid,train
+898,Bobbyo Imports,operated_in,Chiang Mai,train
+899,eBay,auctioned_for,Robert Olson,train
+900,Gianfranco Becchina,partnered,Elie Borowsky,train
+901,David Swetnam,employed,Michael Kelly,train
+902,Hydra Gallery,employed,Christian Boursaud,train
+903,United States Customs,raided,Charles Craig,train
+904,Dos Cabezas,looted_by,Anton Roeckl,train
+905,Sands of Time,sold_antiquities_to,Wallis Gallery,train
+906,Giacomo Medici,sold_antiquities_to,George Ortiz,train
+907,New York,auctioned_for,Vaman Ghiya,train
+908,United States Customs,investigated,Sotheby's,train
+909,Señor de Las Limas,taken_from,Museum of Anthropology,train
+910,Medici Polaroid,implicates,Fritz Bürki,train
+911,Edward Merrin,sold_antiquities_to,Berry & Stark Associates,train
+912,David Swetnam,sold_antiquities_to,Benjamin Bishop Johnson,train
+913,Sotheby's,sold_antiquities_in,New York,train
+914,Giacomo Medici,consigned_through,Christian Boursaud,train
+915,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",repatriated_to,Italy,train
+916,Elizabeth Shee Twohig,received_antiquities_from,Michael Webb,train
+917,Nikolay Zavadsky,stored_antiquities_in,Finlyandskiy,train
+918,Gianfranco Becchina,implicated_by,Medici Polaroid,train
+919,Joel Malter,partnered,Robert Olson,train
+920,Metropolitan Museum of Art,possessed,Vicús,train
+921,Mycenaean objects,consigned_through,Michael Ward Gallery,train
+922,Giacomo Medici,smuggled_antiquities_from,Egypt,train
+923,Luigi Coppola,stole,Melfi vases,train
+924,Giacomo Medici,partnered,Robert Hecht,train
+925,Marion True,received_antiquities_from,Giacomo Medici,train
+926,Ed Dwyer,sold_antiquities_to,Clive Hollinshead,train
+927,Abraham Trust,acted_for,Peter Wilson,train
+928,Gianfranco Becchina,sold_antiquities_to,Ashmolean Museum,train
+929,London,transit_point_for,Miguel de Osma Berckemeyer,train
+930,Geneva,transit_point_for,Vaman Ghiya,train
+931,Cerveteri,robbed_of,Euphronios ( Sarpedon ) krater,train
+932,J Paul Getty Museum,bought_from,Galerie Nefer,train
+933,Nikolay Zavadsky,partnered,Larisa Zavadskaya,train
+934,Nikolas Koutoulakis,partnered,Giacomo Medici,train
+935,Atlantis Antiquities,implicated_by,Giacomo Medici,train
+936,Robert Hecht,bought_from,Giacomo Medici,train
+937,Orazio di Simone,smuggled,Morgantina Venus,train
+938,Marquess of Northampton,bought_from,Korban and Tkalec,train
+939,Marquess of Northampton,employed,Peter Mimpriss,train
+940,Ong Soo Hin,owned,Saga Horizon,train
+941,Vaman Ghiya,smuggled_antiquities_through,Geneva,train
+942,Clive Hollinshead,transit_point_for,Ed Dwyer,train
+943,Jonathan and Cari Markell,hired,Roxanna Brown,train
+944,Benjamin Bishop Johnson,bought_from,Michael Kelly,train
+945,Michael Kelly,president_of,Art Collections Conservation Network,train
+946,Museum of Primitive Art,bought_from,Juan Luis Pereira,train
+947,Butterfields,bought_from,Ong Soo Hin,train
+948,United States Customs,raided,Steven Berger,train
+949,Morgantina Venus,purchased_by,Robin Symes,train
+950,Ong Soo Hin,was_in,Perth,train
+951,Phoenix Ancient Art,probed_by,Immigration and Customs Enforcement,train
+952,DR Bhandarkar,operated_in,Atru,train
+953,Dos Cabezas,base_for,Steve Bourget,train
+954,Larisa Zavadskaya,partnered,Alexander Yerofeyev,train
+955,Robert Olson,operated_in,Los Angeles,train
+956,Giacomo Medici,consigned_through,Mat Securitas,train
+957,Robert Hecht,sold_antiquities_to,Dietrich von Bothmer,train
+958,Thailand,transit_point_for,western-most ( farthest right ) maithuna,train
+959,J Paul Getty Museum,bought_from,Giacomo Medici,train
+960,David Swetnam,partnered,Michael Kelly,train
+961,J Paul Getty Museum,bought_from,Frederick Schultz,train
+962,Boston Museum of Fine Arts,employed,Cornelius C Vermeule III,train
+963,Robert Olson,sold,archaeological artefacts,validation
+964,Giacomo Medici,sold_antiquities_to,José Luis Várez Fisa,validation
+965,Vaman Ghiya,smuggled,red sandstone figure of a Jina,validation
+966,Robert Hecht,partnered,Dikran Sarrafian,validation
+967,Giacomo Medici,owned,Geneva-based Editions Services,validation
+968,Gianfranco Becchina,sold_antiquities_to,J Paul Getty Museum,validation
+969,Sotheby's,sold_antiquities_in,London,validation
+970,Pasquale Camera,partnered,Frieda Tchacos,validation
+971,Edward Johnson,related_to,Joseph Garner,validation
+972,Larisa Zavadskaya,sold_antiquities_to,Alexander Yerofeyev,validation
+973,Bobbyo Imports,operated_in,Bangkok,validation
+974,Immigration and Customs Enforcement,arrested,Edward Johnson,validation
+975,Lawrence Fleischman,gave,Fleischman Collection,validation
+976,Christian Boursaud,accepted_material_from,Giacomo Medici,validation
+977,second Euphronios krater,repatriated_to,Italy,validation
+978,Christie's,auctioned_for,Vaman Ghiya,validation
+979,Thailand,sold_antiquities_to,Robert Olson,validation
+980,Benjamin Bishop Johnson,bought_from,David Swetnam,validation
+981,Luigi Coppola,sold_antiquities_to,Antonio ‘Nino' Savoca,validation
+982,Elizabeth Shee Twohig,worked_for,University College Cork,validation
+983,Noriyoshi Horiuchi,partnered,Elie Borowsky,validation
+984,Shelby White,bought_from,Leon Levy,validation
+985,United States,base_for,Robert Hecht,validation
+986,Berry & Stark Associates,bought_from,Edward Merrin,validation
+987,Giacomo Medici,stole,Euphronios ( Sarpedon ) krater,validation
+988,Robert Olson,sold_antiquities_to,Barry MacLean,validation
+989,Museum of Anthropology,received_antiquities_from,Alfonso Medellín Zenil,validation
+990,Jane Costello Goldberg,sold_antiquities_to,Museum of Primitive Art,validation
+991,Galerie Nefer,sold_antiquities_to,J Paul Getty Museum,validation
+992,Xultún,origin_for,sculptural material,validation
+993,Harry Brown,rejected_by,Denver Art Museum,validation
+994,Marion True,implicated_with,Giacomo Medici,validation
+995,Rupert Wace,returned,Egyptian,validation
+996,Giacomo Medici,consigned_through,Geneva-based Editions Services,validation
+997,United States Customs,partnered,Turkey,validation
+998,Metropolitan Museum of Art,led_by,Thomas Hoving,validation
+999,Fred Drew,worked_for,David Swetnam,validation
+1000,Lawrence Fleischman,bought_from,Giacomo Medici,validation
+1001,Giacomo Medici,sold_antiquities_to,Barbara Fleischman,validation
+1002,DR Bhandarkar,worked_for,Archaeological Survey of India,validation
+1003,Egypt,regained,alabaster duck vessels,validation
+1004,Sweden,returned,totem pole,validation
+1005,Giacomo Medici,owned,Arts Franc,validation
+1006,Gianfranco Becchina,consigned_through,Christie's,validation
+1007,Loma Negra,purchased_by,Nelson Rockefeller,validation
+1008,Nelson Rockefeller,bought_from,Everett Rassiga,validation
+1009,Miguel de Osma Berckemeyer,employed,Fine Arts Services,validation
+1010,Switzerland,transit_point_for,Giacomo Medici,validation
+1011,Vaman Ghiya,partnered,Brendan Lynch,validation
+1012,Zeugma,origin_for,statuary,validation
+1013,Maurice Tempelsman,implicated_by,Medici Polaroid,validation
+1014,Antonio ‘Nino' Savoca,operated_in,Munich,validation
+1015,Fritz Bürki,worked_for,Robert Hecht,validation
+1016,J Paul Getty Museum,bought_from,Royal Athena Galleries,validation
+1017,Jonathan and Cari Markell,partnered,Robert Olson,validation
+1018,red-figure krater by Asteas,purchased_by,J Paul Getty Museum,validation
+1019,Gianfranco Becchina,employed,Raffaele Monticelli,validation
+1020,Robert Olson,partnered,Jonathan and Cari Markell,validation
+1021,Leonardo Patterson,sold,El Manatí Style Busts,validation
+1022,Robert Olson,was_in,Thailand,validation
+1023,Sotheby's,employed,Peter Wilson,validation
+1024,Dikran Sarrafian,probed_by,Metropolitan Museum of Art,validation
+1025,Samuel Schweitzer,implicated_with,Vasek Polak,validation
+1026,Leonardo Patterson,stole,El Manatí,validation
+1027,Gianfranco Becchina,sold_antiquities_to,Metropolitan Museum of Art,validation
+1028,Frieda Tchacos,sold_antiquities_to,J Paul Getty Museum,validation
+1029,Berry & Stark Associates,donated_to,Denver Art Museum,validation
+1030,New York,transit_point_for,Ed Dwyer,validation
+1031,Roger Cornelius Russell Yorke,raided_by,Royal Canadian Mounted Police,validation
+1032,Giacomo Medici,sold_antiquities_to,Leon Levy,validation
+1033,Elie Borowsky,partnered,Noriyoshi Horiuchi,validation
+1034,Giacomo Medici,partnered,Nikolas Koutoulakis,validation
+1035,Fred Drew,partnered,David Swetnam,validation
+1036,Robert Hecht,employed,Fritz Bürki,validation
+1037,London,base_for,Vladimir Mefty,validation
+1038,J Paul Getty Museum,bought_from,Antike Kunst Palladion,validation
+1039,Robert Olson,sold_antiquities_from,Thailand,validation
+1040,Udon,transit_point_for,Occupants of the modern village of,validation
+1041,Robert Hecht,partnered,Fritz Bürki,validation
+1042,Clive Hollinshead,partnered,Jorge Alamilla,validation
+1043,Sezai Portakalci,worked_for,Incirlik Air Base,validation
+1044,Arts Franc,belonged_to,Giacomo Medici,validation
+1045,Roxanna Brown,curator_of,Bangkok University's Southeast Asian Ceramics Museum,validation
+1046,J Paul Getty Museum,employed,Marion True,validation
+1047,Robert Hecht,operated_in,United States,validation
+1048,Clive Hollinshead,transit_point_for,Johnnie Brown Fell,validation
+1049,Fleischman Collection,purchased_by,J Paul Getty Museum,validation
+1050,Art Consultancy,bought_from,Anton Tkalec,validation
+1051,Museum für Indische Kunst,led_by,Mariane Yaldiz,validation
+1052,Butterfields,sold_antiquities_to,"""a Santa Barbara museum""",validation
+1053,Orazio di Simone,implicated_with,Renzo Canavesi,validation
+1054,David Swetnam,partnered,Benjamin Bishop Johnson,validation
+1055,United States,transit_point_for,red-on-buff decorated pottery,validation
+1056,eBay,owned,Butterfields,validation
+1057,Maurice Tempelsman,sold_antiquities_to,J Paul Getty Museum,validation
+1058,Orazio di Simone,operated_in,Sicily,validation
+1059,Medici Polaroid,implicates,Rycroft Collection,validation
+1060,Merrin Gallery,bought_from,Gianfranco Becchina,validation
+1061,J Paul Getty Museum,received_antiquities_from,Michael Milken,validation
+1062,Abraham Trust,acted_for,Rainer Zietz,validation
+1063,Giacomo Medici,sold_antiquities_to,J Paul Getty Museum,validation
+1064,a vase,donated_to,Nasher Museum of Art,validation
+1065,Weary Herakles,returned_by,Boston Museum of Fine Arts,validation
+1066,El Zotz Wooden Lintel,donated_to,Denver Art Museum,validation
+1067,Michael Kelly,partnered,David Swetnam,validation
+1068,Joel Malter,worked_for,Malter Galleries,validation
+1069,mosaic floor,repatriated_to,Gaziantep Museum,validation
+1070,Ed Dwyer,bought_from,Jorge Alamilla,validation
+1071,J Paul Getty Museum,bought_from,Fritz Bürki,validation
+1072,Marion True,probed_by,Carabinieri,validation
+1073,Leon Levy,relationship_with,Shelby White,validation
+1074,Giacomo Medici,partnered,Frieda Tchacos,validation
+1075,Pereda,sold_antiquities_to,Fred Drew,validation
+1076,Giacomo Medici,smuggled_antiquities_from,Greece,validation
+1077,J Paul Getty Museum,received_antiquities_from,Galerie Nefer,validation
+1078,Uma Maheshwar,repatriated_to,Nepal,validation
+1079,Metropolitan Museum of Art,bought_from,Alan C Lapiner,validation
+1080,St Petersburg,base_for,Alexander Yerofeyev,validation
+1081,Pereda,stole,Sipán,validation
+1082,Giuseppe Mascara,probed_by,Carabinieri,validation
+1083,Sotheby's,employed,Brendan Lynch,validation
+1084,Bolivia,partnered,United States,test
+1085,Vaman Ghiya,sold_antiquities_in,London,test
+1086,James Garriock,sold_antiquities_to,John Cummings,test
+1087,Giacomo Medici,consigned_through,Arts Franc,test
+1088,Sands of Time,partnered,Art Loss Register,test
+1089,Johnnie Brown Fell,related_to,Harry Brown,test
+1090,Switzerland,base_for,Robert Hecht,test
+1091,Robert Olson,operated_in,Thailand,test
+1092,Ed Dwyer,rejected_by,Marjorie Neikrug,test
+1093,Barbara Fleischman,bought_from,Edward Merrin,test
+1094,Trinh Cao Tuong,worked_for,Vietnamese Institute of Archaeology,test
+1095,Medici Polaroid,implicates,Antike Kunst Palladion,test
+1096,Hydra Gallery,belonged_to,Giacomo Medici,test
+1097,Butterfields,sold_antiquities_to,Art Gallery of New South Wales,test
+1098,Butterfields,sold_antiquities_to,"""a Denver museum""",test
+1099,J Paul Getty Museum,bought_from,Gianfranco Becchina,test
+1100,Shelby White,donated_to,Museum of Fine Arts,test
+1101,Jonathan and Cari Markell,donated_to,Los Angeles County Museum of Art,test
+1102,Mexico,base_for,Alberto Luna,test
+1103,Las Bocas,origin_for,Olmec,test
+1104,Cairo,base_for,Edward Johnson,test
+1105,Leonardo Patterson,refused,Ed Dwyer,test
+1106,New York Times,investigated,Edward Merrin,test
+1107,Robin Symes,sold_antiquities_to,Barbara Fleischman,test
+1108,Fred Drew,partnered,Miguel de Osma Berckemeyer,test
+1109,Fritz Bürki,sold_antiquities_to,J Paul Getty Museum,test
+1110,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",purchased_by,J Paul Getty Museum,test
+1111,Bobbyo Imports,operated_in,Singapore,test
+1112,New York,base_for,Edward Merrin,test
+1113,Pierre Langlois,sold_antiquities_to,Jean Aurance,test
+1114,Sotheby's,auctioned_for,Vaman Ghiya,test
+1115,Museum of Primitive Art,received_antiquities_from,Nelson Rockefeller,test
+1116,Hillwood Museum,robbed_of,Egyptian artefacts,test
+1117,Marquis of Tavistock,consigned_through,Sotheby's,test
+1118,George Ortiz,bought_from,Gianfranco Becchina,test
+1119,Leonardo Patterson,sold,figural carvings,test
+1120,Barbara Fleischman,implicated_with,Marion True,test
+1121,United States,transit_point_for,David Swetnam,test
+1122,Museum of Primitive Art,received_antiquities_from,Michael Rockefeller,test
+1123,United States,transit_point_for,El Salvadore,test
+1124,Michael Kelly,sold_antiquities_to,Benjamin Bishop Johnson,test
+1125,El Zotz Wooden Lintel,bought_from,Edward Merrin,test
+1126,Morgantina Venus,repatriated_to,Italy,test
+1127,Raúl Apesteguía,sold,Moche pieces,test
+1128,totem pole,returned_by,Sweden,test
+1129,Gianfranco Becchina,consigned_through,Sotheby's,test
+1130,Rupert Wace,bought_from,PIASA,test
+1131,Sylvanus Morley,was_in,Xultún,test
+1132,Benjamin Bishop Johnson,partnered,David Swetnam,test
+1133,Roger Cornelius Russell Yorke,transit_point_for,Steven Berger,test
+1134,Fleischman Collection,bought_from,Fritz Bürki,test
+1135,Giacomo Medici,operated_in,Switzerland,test
+1136,Armand Labbé,partnered,Robert Olson,test
+1137,Gianfranco Becchina,sold_antiquities_to,Princeton University Art Museum,test
+1138,Giacomo Medici,owned,Tecafin Fiduciaire,test
+1139,Metropolitan Museum of Art,exhibited,Weary Herakles,test
+1140,Pasquale Camera,partnered,Danilo Zicchi,test
+1141,Nikolay Zavadsky,relationship_with,Larisa Zavadskaya,test
+1142,Vaman Ghiya,was_in,Mathura,test
+1143,Italy,regained,Morgantina Venus,test
+1144,Larisa Zavadskaya,was_in,Finland,test
+1145,Marion True,worked_for,J Paul Getty Museum,test
+1146,Vaman Ghiya,owned,Megavena,test
+1147,El Zotz Wooden Lintel,repatriated_to,Guatemala,test
+1148,Guatemala,regained,Macahquilá Stela 2,test
+1149,Giacomo Medici,sold_antiquities_to,Lawrence Fleischman,test
+1150,Boston Museum of Fine Arts,repatriated_to,Turkey,test
+1151,Larisa Zavadskaya,partnered,Nikolay Zavadsky,test
+1152,western-most ( farthest right ) maithuna,shipped_to,Thailand,test
+1153,dragon ewers,purchased_by,Art Gallery of New South Wales,test
+1154,Robert Hecht,sold_antiquities_to,Marion True,test
+1155,Weary Herakles,looted_from,Perge,test
+1156,totem pole,repatriated_to,Canada,test
+1157,Vaman Ghiya,was_in,Delhi,test
+1158,John Betts,partnered,Michael Ward Gallery,test
+1159,Vaman Ghiya,owned,Cape Lion Logging,test
+1160,Nikolas Koutoulakis,sold_antiquities_to,Robert Hecht,test
+1161,New York,home_of,David Bernstein,test
+1162,Peter G Wray,consigned_through,Andre Emmerich's New York Gallery,test
+1163,Euphronios ( Sarpedon ) krater,shipped_to,Switzerland,test
+1164,Steven Berger,raided_by,United States Customs,test
+1165,J Paul Getty Museum,received_antiquities_from,Gordon McClendon,test
+1166,Switzerland,base_for,Renzo Canavesi,test
+1167,Peter Wilson,worked_for,Sotheby's,test
+1168,Alexander Yerofeyev,partnered,Larisa Zavadskaya,test
+1169,Christie's,returned,alabaster duck vessels,test
+1170,Egypt,regained,Dynasty Tomb of Mutirdis,test
+1171,Noriyoshi Horiuchi,sold_antiquities_to,Miho Museum,test
+1172,Halim Korban,sold_antiquities_to,Art Consultancy,test
+1173,Giacomo Medici,sold_antiquities_to,Cleveland Museum of Art,test
+1174,Geneva storerooms,raided_by,Carabinieri,test
+1175,Lawrence Fleischman,relationship_with,Barbara Fleischman,test
+1176,Robert Hecht,implicated_with,Pasquale Camera,test
+1177,New York,base_for,Leonardo Patterson,test
+1178,Giacomo Medici,implicates,E Pfuhl,test
+1179,Switzerland,transit_point_for,Morgantina Venus,test
+1180,Leonardo Patterson,operated_in,New York,test
+1181,Giacomo Medici,raided_by,Carabinieri,test
+1182,PIASA,possessed,alabaster duck vessels,test
+1183,Michael Ward Gallery,partnered,John Betts,test
+1184,Xultún,origin_for,Stela 3,test
+1185,David Swetnam,employed,Fred Drew,test
+1186,Robert Hecht,raided_by,Carabinieri,test
+1187,Bill Verick,partnered,Michael Ratner,test
+1188,Silver Hoard of Everbeek,purchased_by,Provincial Archaeological Museum,test
+1189,Gianfranco Becchina,partnered,Rosie Becchina,test
+1190,Ban Chiang,origin_for,red-on-buff decorated pottery,test
+1191,Edward Merrin,sold_antiquities_to,Barbara Fleischman,test
+1192,Vaman Ghiya,stored_antiquities_in,Delhi,test
+1193,John Eskenazi,consigned_through,Arts of Asia,test
+1194,David Swetnam,relationship_with,Jacqueline Swetnam,test
+1195,Juan Luis Pereira,sold_antiquities_to,Museum of Primitive Art,test
+1196,Euphronios ( Sarpedon ) krater,taken_from,Cerveteri,test
+1197,Sotheby's,auctioned_for,Metropolitan Museum of Art,test
+1198,Nepal,regained,Uma Maheshwar,test
+1199,Vaman Ghiya,stored_antiquities_in,Mathura,test
+1200,Metropolitan Museum of Art,employed,Dietrich von Bothmer,test
+1201,Boston Museum of Fine Arts,employed,Robert P Mitchell,test
+1202,J Paul Getty Museum,bought_from,Robert Hecht,test
+1203,Alan C Lapiner,sold_antiquities_to,Museum of Primitive Art,test

@@ -1,0 +1,1205 @@
+head,relationship,tail,ID
+Abraham Trust,partnered,Geoffrey Jenkinson,1
+Benjamin Bishop Johnson,appraised_art_for,David Swetnam,2
+Donald Hales,appraised_art_for,Leonardo Patterson,3
+Giacomo Medici,appraised_art_for,Nikolas Koutoulakis,4
+Jack Ogden,appraised_art_for,Michael Ward Gallery,5
+Joel Malter,appraised_art_for,Robert Olson,6
+John Betts,appraised_art_for,Michael Ward Gallery,7
+Paul Clifford,appraised_art_for,Leonardo Patterson,8
+Roxanna Brown,appraised_art_for,Jonathan and Cari Markell,9
+Edward Johnson,caught_by,Immigration and Customs Enforcement,10
+Giacomo Medici,caught_by,Carabinieri,11
+Dikran Sarrafian,authenticated,Euphronios ( Sarpedon ) krater,12
+Paul Clifford,authenticated,Precolumbian art,13
+Barry MacLean,acquired,Ban Chiang pottery,14
+Berry & Stark Associates,acquired,El Zotz Wooden Lintel,15
+Art Gallery of New South Wales,acquired,dragon ewers,16
+British Museum,acquired,dragon ewers,17
+Nelson Rockefeller,acquired,Loma Negra,18
+Peter G Wray,acquired,mask made of fuschite depicting the sun god,19
+Michigan-based Orpheus Art,acquired,Predynastic opium poppy vase,20
+Robin Symes,acquired,Morgantina Venus,21
+Michael Ward Gallery,acquired,sealstones,22
+Leon Levy,acquired,second Euphronios krater,23
+Shelby White,acquired,second Euphronios krater,24
+J Paul Getty Museum,acquired,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",25
+J Paul Getty Museum,acquired,Second century AD copy of a head of Diadoumenos by Polykleitos,26
+Metropolitan Museum of Art,acquired,Euphronios ( Sarpedon ) krater,27
+Museum für Indische Kunst,acquired,Uma Maheshwar,28
+Provincial Archaeological Museum,acquired,Silver Hoard of Everbeek,29
+Sweden,acquired,totem pole,30
+J Paul Getty Museum,acquired,red-figure krater by Asteas,31
+Metropolitan Museum of Art,bought_from,Alan C Lapiner,32
+Museum of Primitive Art,bought_from,Alan C Lapiner,33
+British Museum,bought_from,Alistair McAlpine,34
+Detroit Institute of Art,bought_from,André Emmerich,35
+J Paul Getty Museum,bought_from,Antike Kunst Palladion,36
+Art Consultancy,bought_from,Anton Tkalec,37
+Antonio ‘Nino' Savoca,bought_from,Luigi Coppola,38
+Barbara Fleischman,bought_from,Robin Symes,39
+J Paul Getty Museum,bought_from,Barbara Fleischman,40
+Benjamin Bishop Johnson,bought_from,Michael Kelly,41
+Benjamin Bishop Johnson,bought_from,David Swetnam,42
+Charles Craig,bought_from,David Swetnam,43
+Dietrich von Bothmer,bought_from,Robert Hecht,44
+Enrico Poli,bought_from,Pereda,45
+Fleischman Collection,bought_from,Atlantis Antiquities,46
+Fleischman Collection,bought_from,Fritz Bürki,47
+Fred Drew,bought_from,Pereda,48
+Frieda Tchacos,bought_from,Antonio ‘Nino' Savoca,49
+Hoi An,bought_from,Captain Trang,50
+Jean Aurance,bought_from,Pierre Langlois,51
+Marquess of Northampton,bought_from,Korban and Tkalec,52
+Maurice Tempelsman,bought_from,Robin Symes,53
+Michael Rockefeller,bought_from,Andre Emmerich Gallery,54
+Nelson Rockefeller,bought_from,Everett Rassiga,55
+Pierre Langlois,bought_from,Earl Stendahl,56
+Antiquaria Romana,belonged_to,Giacomo Medici,57
+Robert Olson,bought_from,Thailand,58
+Robin Symes,bought_from,Renzo Canavesi,59
+Ted Wiener,bought_from,Clive Hollinshead,60
+J Paul Getty Museum,bought_from,Frieda Tchacos,61
+J Paul Getty Museum,bought_from,Hydra Gallery,62
+J Paul Getty Museum,bought_from,Samuel Schweitzer,63
+Robert Hecht,bought_from,Dikran Sarrafian,64
+Robin Symes,bought_from,a collector from Chiasso,65
+Everett Rassiga,implicated_with,Josué Sáenz,66
+John Cummings,implicated_with,Alistair McAlpine,67
+John Cummings,implicated_with,Christie's,68
+Orazio di Simone,implicated_with,Renzo Canavesi,69
+Arts Franc,accepted_material_from,Giacomo Medici,70
+Pasquale Camera,implicated_with,Gianfranco Becchina,71
+Pasquale Camera,implicated_with,Robert Hecht,72
+Vasek Polak,implicated_with,Samuel Schweitzer,73
+Giacomo Medici,consigned_through,Arts Franc,74
+Giacomo Medici,consigned_through,Christian Boursaud,75
+Giacomo Medici,consigned_through,Mat Securitas,76
+Giacomo Medici,consigned_through,Sotheby's,77
+Giacomo Medici,consigned_through,Tecafin Fiduciaire,78
+Giacomo Medici,consigned_through,Geneva-based Editions Services,79
+Israeli private collection,consigned_through,Christie's,80
+Moche pieces,consigned_through,David Bernstein,81
+Peter G Wray,consigned_through,Andre Emmerich's New York Gallery,82
+sarcophagus,consigned_through,Editions Services,83
+Euphronios ( Sarpedon ) krater,created_by,Euphronios,84
+Euphronios ( Sarpedon ) krater,created_by,Euxitheos,85
+Armand Labbé,curator_of,Bowers Museum,86
+Cornelius C Vermeule III,curator_of,Boston Museum of Fine Arts,87
+Julie Jones,curator_of,Museum of Primitive Art,88
+Larisa Zavadskaya,curator_of,Hermitage,89
+Marion True,curator_of,J Paul Getty Museum,90
+Roxanna Brown,curator_of,Bangkok University's Southeast Asian Ceramics Museum,91
+Sue McGovern,curator_of,Sands of Time,92
+Michael Kelly,director_of,Art Collections Conservation Network,93
+Berry & Stark Associates,gave,El Zotz Wooden Lintel,94
+Michael Ward,gave,SPGH,95
+Barbara Fleischman,gave,Fleischman Collection,96
+Lawrence Fleischman,gave,Fleischman Collection,97
+a vase,donated_to,Mint Museum of Art,98
+a vase,donated_to,Nasher Museum of Art,99
+Alfonso Medellín Zenil,donated_to,Museum of Anthropology,100
+Berry & Stark Associates,donated_to,Denver Art Museum,101
+Bonhams,donated_to,Egyptian Embassy,102
+Charles Craig,donated_to,Santa Barbara Museum of Art,103
+Galerie Nefer,donated_to,J Paul Getty Museum,104
+Gordon McClendon,donated_to,J Paul Getty Museum,105
+Jonathan and Cari Markell,donated_to,Los Angeles County Museum of Art,106
+Leon Levy,donated_to,Boston Museum of Fine Arts,107
+Michael Milken,donated_to,J Paul Getty Museum,108
+Michael Rockefeller,donated_to,Museum of Primitive Art,109
+Michael Webb,donated_to,Elizabeth Shee Twohig,110
+Nelson Rockefeller,donated_to,Museum of Primitive Art,111
+Shelby White,donated_to,Museum of Fine Arts,112
+Silver Hoard of Everbeek,donated_to,Provincial Archaeological Museum,113
+Museum of Primitive Art,donated_to,Metropolitan Museum of Art,114
+El Zotz Wooden Lintel,donated_to,Denver Art Museum,115
+Antalya Museum,exhibited,Weary Herakles,116
+Barbier-Mueller Pre-Columbian Art Museum,exhibited,mask made of fuschite depicting the sun god,117
+Metropolitan Museum of Art,exhibited,Weary Herakles,118
+Germany,home_of,Anton Roeckl,119
+Las Limas,home_of,Rosa Manuel Pascual,120
+New York,home_of,David Bernstein,121
+Peru,home_of,Raúl Apesteguía,122
+Antike Kunst Palladion,implicated_by,Medici Polaroid,123
+Arts Franc,belonged_to,Giacomo Medici,124
+Barbara Fleischman,implicated_by,Medici Polaroid,125
+Asia,looted_by,Giacomo Medici,126
+Fritz Bürki,implicated_by,Medici Polaroid,127
+Maurice Tempelsman,implicated_by,Medici Polaroid,128
+Atlantis Antiquities,implicated_by,Giacomo Medici,129
+Robin Symes,implicated_by,Medici Polaroid,130
+Rycroft Collection,implicated_by,Medici Polaroid,131
+Samuel Schweitzer,implicated_by,Medici Polaroid,132
+Gianfranco Becchina,implicated_by,Medici Polaroid,133
+Pasquale Camera,implicated_by,Medici Polaroid,134
+Carabinieri,investigated,Marion True,135
+Departamento de Monumentos Arqueológicos,investigated,Dos Cabezas,136
+Immigration and Customs Enforcement,investigated,Phoenix Ancient Art,137
+Carabinieri,investigated,Giuseppe Mascara,138
+Luc Watrin,investigated,Bonhams,139
+New York Times,investigated,Edward Merrin,140
+Flanders Heritage Agency,investigated,Velzeke Provincial Archaeological Museum,141
+Metropolitan Museum of Art,investigated,Dikran Sarrafian,142
+Supreme Court,investigated,Michael Webb,143
+United States Customs,investigated,Sotheby's,144
+US Homeland Security,investigated,John Eskenazi,145
+Captain Trang,stole,Cu Lao Cham,146
+Everett Rassiga,stole,Placeres,147
+Giacomo Medici,stole,Euphronios ( Sarpedon ) krater,148
+Jorge Alamilla,stole,Machaquilá Stela 2,149
+Julio Ullilén,stole,Laguna de los Cóndores,150
+Larisa Zavadskaya,looted_from,Hermitage,151
+Nikolay Zavadsky,looted_from,Hermitage,152
+Occupants of the modern village of,stole,Ban Chiang,153
+Pablo Soldi,stole,Ica Valley,154
+Pereda,stole,Sipán,155
+baby-face figure,looted_from,Las Bocas,156
+Captain Trang,stole,Hoi An,157
+Morgantina Venus,looted_from,Morgantina,158
+El Zotz Wooden Lintel,looted_from,El Zotz,159
+El Zotz Wooden Lintel,looted_from,Temple 1,160
+"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",looted_from,Cerveteri,161
+Moche pieces,looted_from,Dos Cabezas,162
+Moche headdress,looted_from,La Mina,163
+mosaic floor,looted_from,Zeugma,164
+Olmec,looted_from,Las Bocas,165
+red sandstone figure of a Jina,looted_from,Vilasgarh temple,166
+red-on-buff decorated pottery,looted_from,Ban Chiang,167
+sacred textiles,looted_from,Coroma,168
+sarcophagus,looted_from,San Saba,169
+sculptural material,looted_from,Xultún,170
+sculptures,looted_from,Hindu,171
+statuary,looted_from,Zeugma,172
+Stela 3,looted_from,Xultún,173
+Aidonia_Greece Treasure,looted_from,Aidonia_Greece,174
+Weary Herakles,looted_from,Perge,175
+torso of a second century AD statue of the god,looted_from,Italian Giustiniani Collection,176
+Uma Maheshwar,looted_from,Wotol,177
+Vicús,looted_from,Loma Negra,178
+Michael Ward Gallery,offered_for_sale,Mycenaean objects,179
+Alberto Luna,operated_in,Mexico,180
+André Emmerich,operated_in,New York,181
+Antonio ‘Nino' Savoca,operated_in,Munich,182
+Bobbyo Imports,operated_in,Bangkok,183
+Bobbyo Imports,operated_in,Chiang Mai,184
+Bobbyo Imports,operated_in,Los Angeles,185
+Bobbyo Imports,operated_in,Singapore,186
+Christian Boursaud,operated_in,Geneva,187
+Clive Hollinshead,operated_in,Miami,188
+DR Bhandarkar,operated_in,Atru,189
+Edward Merrin,operated_in,New York,190
+Vaman Ghiya,operated_in,India,191
+Giacomo Medici,operated_in,Rome,192
+Giacomo Medici,operated_in,Switzerland,193
+Glenn Rittenour,operated_in,Milwaukee,194
+Harry Brown,operated_in,Helena,195
+Leonardo Patterson,operated_in,New York,196
+Olof Hansson,operated_in,British Columbia,197
+Olof Hansson,operated_in,Sweden,198
+Orazio di Simone,operated_in,Sicily,199
+Orazio di Simone,operated_in,Switzerland,200
+Renzo Canavesi,operated_in,Switzerland,201
+Robert Hecht,operated_in,Switzerland,202
+Robert Hecht,operated_in,United States,203
+Robert Olson,operated_in,Los Angeles,204
+Robert Olson,operated_in,Thailand,205
+Robin Symes,operated_in,London,206
+Roger Cornelius Russell Yorke,operated_in,Truro,207
+Stanley Boggs,operated_in,El Salvador,208
+Steve Bourget,operated_in,Dos Cabezas,209
+Swiss Air,operated_in,JFK Airport,210
+United States,operated_in,Udon,211
+Athens,origin_for,Euphronios ( Sarpedon ) krater,212
+La Mina,origin_for,Moche pieces,213
+Loma Negra,origin_for,Moche pieces,214
+Puebla,origin_for,Olmec,215
+Sicyon,origin_for,Lyssipos,216
+Jonathan and Cari Markell,owned,Silk Roads Gallery,217
+Christian Boursaud,owned,Hydra Gallery,218
+eBay,owned,Butterfields,219
+Edward Merrin,owned,El Zotz Wooden Lintel,220
+Fritz Bürki,owned,Atlantis Antiquities,221
+Vaman Ghiya,owned,Artistic Imports Corporation ),222
+Vaman Ghiya,owned,Cape Lion Logging,223
+Vaman Ghiya,owned,Megavena,224
+Giacomo Medici,owned,Antiquaria Romana,225
+Giacomo Medici,owned,Arts Franc,226
+Giacomo Medici,owned,Geneva,227
+Giacomo Medici,owned,Hydra Gallery,228
+Giacomo Medici,owned,Mat Securitas,229
+Giacomo Medici,owned,Tecafin Fiduciaire,230
+Giacomo Medici,owned,Geneva-based Editions Services,231
+Gianfranco Becchina,owned,Antike Kunst Palladion,232
+Justin Kerr,owned,Maya Vase Database,233
+Marquis of Tavistock,owned,Toi moko,234
+Michael Ward,owned,Michael Ward Gallery,235
+Ong Soo Hin,owned,Saga Horizon,236
+Peter Wilson,owned,Art Consultancy,237
+Peter Wilson,owned,Rainer Zietz,238
+Robert Olson,owned,Bobbyo Imports,239
+Robert Olson,owned,warehouse,240
+Marquess of Northampton,owned,Sevso Treasure,241
+Edward Merrin,owned,Merrin Gallery,242
+Caballo Pintado,part_of,Las Bocas,243
+El Zotz,part_of,San Miguel la Palotada National Park,244
+Flanders,part_of,Belgium,245
+Temple 1,part_of,El Zotz,246
+Zona Arqueológica Cerro Dos Cabezas,part_of,Jequetepeque Valley,247
+Anton Tkalec,possessed,Sevso Plate,248
+Orazio di Simone,possessed,Morgantina Venus,249
+PIASA,possessed,alabaster duck vessels,250
+Barry Stern,president_of,Hillwood Museum,251
+Mariane Yaldiz,president_of,Museum für Indische Kunst,252
+Michael Kelly,president_of,Art Collections Conservation Network,253
+Riddi Pradhan,president_of,Department of Archaeology,254
+Thomas Hoving,president_of,Metropolitan Museum of Art,255
+Charles Craig,raided_by,United States Customs,256
+Geneva,raided_by,Carabinieri,257
+Geneva storerooms,raided_by,Carabinieri,258
+Giacomo Medici,raided_by,Carabinieri,259
+Robert Hecht,raided_by,Carabinieri,260
+Roger Cornelius Russell Yorke,raided_by,Royal Canadian Mounted Police,261
+Sotheby's,raided_by,United States Customs,262
+Steven Berger,raided_by,United States Customs,263
+André Emmerich,refused,Ed Dwyer,264
+Glenn Rittenour,refused,Ed Dwyer,265
+Leonardo Patterson,refused,Ed Dwyer,266
+Marjorie Neikrug,refused,Ed Dwyer,267
+Brooklyn Museum,refused,Ed Dwyer,268
+Denver Art Museum,refused,Harry Brown,269
+Edward Johnson,related_to,Joseph Garner,270
+Harry Brown,related_to,Johnnie Brown Fell,271
+Marquess of Northampton,related_to,Abraham Trust,272
+Jacqueline Swetnam,relationship_with,David Swetnam,273
+Larisa Zavadskaya,relationship_with,Nikolay Zavadsky,274
+Shelby White,relationship_with,Leon Levy,275
+Barbara Fleischman,relationship_with,Lawrence Fleischman,276
+Lawrence Fleischman,relationship_with,Barbara Fleischman,277
+alabaster duck vessels,repatriated_to,Egypt,278
+Ballcourt Marker,repatriated_to,Guatemala,279
+Morgantina Venus,repatriated_to,Italy,280
+Dynasty Tomb of Mutirdis,repatriated_to,Egypt,281
+El Zotz Wooden Lintel,repatriated_to,Museo Nacional de Arqueología e Etnología,282
+"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",repatriated_to,Italy,283
+El Zotz Wooden Lintel,repatriated_to,Guatemala,284
+Macahquilá Stela 2,repatriated_to,Guatemala,285
+Machaquilá Stela 5,repatriated_to,Guatemala,286
+mosaic floor,repatriated_to,Gaziantep Museum,287
+second Euphronios krater,repatriated_to,Italy,288
+Sotheby's,repatriated_to,Chinese Embassy,289
+Aidonia_Greece Treasure,repatriated_to,Greece,290
+Boston Museum of Fine Arts,repatriated_to,Turkey,291
+Euphronios ( Sarpedon ) krater,repatriated_to,Villa Giulia,292
+Weary Herakles,repatriated_to,National Museum,293
+totem pole,repatriated_to,Canada,294
+Uma Maheshwar,repatriated_to,Nepal,295
+Uma Maheshwar,repatriated_to,Patan Museum,296
+unprovenienced vessel,repatriated_to,Morley Museum,297
+Weary Herakles,repatriated_to,Antalya,298
+Abraham Trust,acted_for,Marquess of Northampton,299
+Abraham Trust,acted_for,Peter Wilson,300
+Abraham Trust,acted_for,Philip Wilson,301
+Abraham Trust,acted_for,Rainer Zietz,302
+Abraham Trust,acted_for,Tom Wilson,303
+Christie's,returned,alabaster duck vessels,304
+Rupert Wace,returned,Egyptian,305
+Sweden,returned,totem pole,306
+Boston Museum of Fine Arts,returned,Weary Herakles,307
+Denver Art Museum,returned,El Zotz Wooden Lintel,308
+J Paul Getty Museum,returned,Morgantina Venus,309
+J Paul Getty Museum,returned,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",310
+Vaman Ghiya,smuggled,red sandstone figure of a Jina,311
+Giacomo Medici,smuggled,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",312
+Harry Brown,smuggled,Machaquilá Stela 5,313
+Leonardo Patterson,smuggled,Precolumbian figurines,314
+Leonardo Patterson,smuggled,sea turtle eggs,315
+Orazio di Simone,smuggled,Morgantina Venus,316
+Roger Cornelius Russell Yorke,smuggled,sacred textiles,317
+Steven Berger,smuggled,sacred textiles,318
+Anton Roeckl,smuggled_antiquities_from,Dos Cabezas,319
+David Swetnam,smuggled_antiquities_from,Peru,320
+Giacomo Medici,smuggled_antiquities_from,Asia,321
+Giacomo Medici,smuggled_antiquities_from,Egypt,322
+Giacomo Medici,smuggled_antiquities_from,Greece,323
+Giacomo Medici,smuggled_antiquities_from,Italy,324
+Giacomo Medici,smuggled_antiquities_from,Syria,325
+Japanese dealers,smuggled_antiquities_from,Vietnam,326
+Vaman Ghiya,smuggled_antiquities_through,Geneva,327
+Leonardo Patterson,smuggled_antiquities_through,Spain,328
+Michael Kelly,smuggled_antiquities_through,Los Angeles International Airport,329
+Miguel de Osma Berckemeyer,smuggled_antiquities_through,London,330
+Occupants of the modern village of Ban Chiang,smuggled_antiquities_through,Udon,331
+David Swetnam,smuggled_antiquities_through,Bolivia,332
+David Swetnam,smuggled_antiquities_through,Canada,333
+David Swetnam,smuggled_antiquities_through,Vancouver,334
+Ed Dwyer,smuggled_antiquities_to,Clive Hollinshead,335
+Ed Dwyer,smuggled_antiquities_to,New York,336
+Giacomo Medici,smuggled_antiquities_to,Switzerland,337
+Harry Brown,smuggled_antiquities_to,Clive Hollinshead,338
+Johnnie Brown Fell,smuggled_antiquities_to,Clive Hollinshead,339
+Johnnie Brown Fell,smuggled_antiquities_to,New York,340
+Leonardo Patterson,smuggled_antiquities_to,Munich,341
+Steven Berger,smuggled_antiquities_to,Roger Cornelius Russell Yorke,342
+David Swetnam,smuggled_antiquities_to,United States,343
+Edward Merrin,sold,El Zotz Wooden Lintel,344
+Frieda Tchacos,sold,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",345
+Leonardo Patterson,sold,El Manatí Style Busts,346
+Leonardo Patterson,sold,fake monumental head,347
+Leonardo Patterson,sold,figural carvings,348
+Michael Ward Gallery,sold,gold jewelry,349
+Raúl Apesteguía,sold,Moche pieces,350
+Robert Olson,sold,archaeological artefacts,351
+Hydra Gallery,sold,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",352
+Gianfranco Becchina,sold,red-figure krater by Asteas,353
+Robert Olson,sold_antiquities_from,Asia,354
+Robert Olson,sold_antiquities_from,Thailand,355
+Captain Trang,sold_antiquities_in,Hoi An,356
+Barry Stern,consigned_through,Christie's,357
+Vaman Ghiya,consigned_through,Christie's,358
+Vaman Ghiya,sold_antiquities_in,London,359
+Vaman Ghiya,sold_antiquities_in,New York,360
+Vaman Ghiya,consigned_through,Sotheby's,361
+Guy Loudmer,consigned_through,Hôtel des Ventes,362
+Hervé Poulin,consigned_through,Hôtel des Ventes,363
+Hoi An ceramics,consigned_through,eBay,364
+John Eskenazi,consigned_through,Arts of Asia,365
+Joseph Garnish,consigned_through,Bonhams,366
+Marquis of Tavistock,consigned_through,Bonhams,367
+Marquis of Tavistock,consigned_through,Sotheby's,368
+Michael Ward,consigned_through,Michael Ward Gallery,369
+Ong Soo Hin,consigned_through,Butterfields,370
+Phoenix Ancient Art,consigned_through,Sotheby's,371
+Robert Olson,consigned_through,eBay,372
+Sotheby's,sold_antiquities_in,London,373
+Sotheby's,sold_antiquities_in,New York,374
+Metropolitan Museum of Art,consigned_through,Sotheby's,375
+Gianfranco Becchina,consigned_through,Sotheby's,376
+Gianfranco Becchina,consigned_through,Christie's,377
+Butterfields,sold_antiquities_to,"""a Denver museum""",378
+Butterfields,sold_antiquities_to,"""a Los Angeles museum""",379
+Butterfields,sold_antiquities_to,"""a Phoenix museum""",380
+Butterfields,sold_antiquities_to,"""a Santa Barbara museum""",381
+Butterfields,sold_antiquities_to,"""a Seattle museum""",382
+Butterfields,sold_antiquities_to,Art Gallery of New South Wales,383
+Butterfields,sold_antiquities_to,British Museum,384
+Dietrich von Bothmer,sold_antiquities_to,J Paul Getty Museum,385
+Dikran Sarrafian,sold_antiquities_to,Leon Levy,386
+Ed Dwyer,sold_antiquities_to,Clive Hollinshead,387
+Ed Dwyer,sold_antiquities_to,Harry Brown,388
+Edward Merrin,sold_antiquities_to,Barbara Fleischman,389
+Edward Merrin,sold_antiquities_to,Berry & Stark Associates,390
+Emil Bernal,sold_antiquities_to,Pereda,391
+Fred Drew,sold_antiquities_to,Miguel de Osma Berckemeyer,392
+Frederick Schultz,sold_antiquities_to,J Paul Getty Museum,393
+Fritz Bürki,sold_antiquities_to,J Paul Getty Museum,394
+Galerie Nefer,sold_antiquities_to,J Paul Getty Museum,395
+Giacomo Medici,sold_antiquities_to,Barbara Fleischman,396
+Giacomo Medici,sold_antiquities_to,George Ortiz,397
+Giacomo Medici,sold_antiquities_to,Hunt brothers,398
+Giacomo Medici,sold_antiquities_to,José Luis Várez Fisa,399
+Giacomo Medici,sold_antiquities_to,Lawrence Fleischman,400
+Giacomo Medici,sold_antiquities_to,Leon Levy,401
+Giacomo Medici,sold_antiquities_to,Maurice Tempelsman,402
+Giacomo Medici,sold_antiquities_to,Robert Hecht,403
+Giacomo Medici,sold_antiquities_to,Shelby White,404
+Giacomo Medici,sold_antiquities_to,Boston Museum of Fine Arts,405
+Giacomo Medici,sold_antiquities_to,Cleveland Museum of Art,406
+Giacomo Medici,sold_antiquities_to,J Paul Getty Museum,407
+Giacomo Medici,sold_antiquities_to,Metropolitan Museum of Art,408
+Halim Korban,sold_antiquities_to,Art Consultancy,409
+Harry Brown,sold_antiquities_to,Clive Hollinshead,410
+James Garriock,sold_antiquities_to,John Cummings,411
+Jane Costello Goldberg,sold_antiquities_to,Metropolitan Museum of Art,412
+Jane Costello Goldberg,sold_antiquities_to,Museum of Primitive Art,413
+Jorge Alamilla,sold_antiquities_to,Ed Dwyer,414
+Jorge Alamilla,sold_antiquities_to,Johnnie Brown Fell,415
+Juan Luis Pereira,sold_antiquities_to,Metropolitan Museum of Art,416
+Juan Luis Pereira,sold_antiquities_to,Museum of Primitive Art,417
+Larisa Zavadskaya,sold_antiquities_to,Alexander Yerofeyev,418
+Leon J Buki,sold_antiquities_to,Metropolitan Museum of Art,419
+Leon J Buki,sold_antiquities_to,Museum of Primitive Art,420
+Leon Levy,sold_antiquities_to,Shelby White,421
+Leonardo Patterson,sold_antiquities_to,Wayne Anderson,422
+Mansur Mokhtarzade,sold_antiquities_to,Art Consultancy,423
+Maurice Tempelsman,sold_antiquities_to,J Paul Getty Museum,424
+Nikolas Koutoulakis,sold_antiquities_to,Robert Hecht,425
+Ong Soo Hin,sold_antiquities_to,Butterfields,426
+Pablo Soldi,sold_antiquities_to,Paul Truel,427
+Pablo Soldi,sold_antiquities_to,American Museum of Natural History,428
+Pereda,sold_antiquities_to,Fred Drew,429
+Pereda,sold_antiquities_to,Enrico Poli,430
+PIASA,sold_antiquities_to,Rupert Wace,431
+Renzo Canavesi,sold_antiquities_to,Robin Symes,432
+Robert Hecht,sold_antiquities_to,Dietrich von Bothmer,433
+Robert Hecht,sold_antiquities_to,Boston Museum of Fine Arts,434
+Robert Hecht,sold_antiquities_to,J Paul Getty Museum,435
+Robert Olson,sold_antiquities_to,Barry MacLean,436
+Robert Olson,sold_antiquities_to,Jonathan and Cari Markell,437
+Robert Olson,sold_antiquities_to,MacLean,438
+Robin Symes,sold_antiquities_to,J Paul Getty Museum,439
+Sands of Time,sold_antiquities_to,Wallis Gallery,440
+Sezai Portakalci,sold_antiquities_to,Joel Malter,441
+Royal Athena Galleries,sold_antiquities_to,J Paul Getty Museum,442
+Stendahl Galleries,sold_antiquities_to,Minneapolis Institute of Arts,443
+Gianfranco Becchina,sold_antiquities_to,Ashmolean Museum,444
+Gianfranco Becchina,sold_antiquities_to,Princeton University Art Museum,445
+Gianfranco Becchina,sold_antiquities_to,Toledo Museum of Art,446
+Gianfranco Becchina,sold_antiquities_to,J Paul Getty Museum,447
+Gianfranco Becchina,sold_antiquities_to,George Ortiz,448
+Gianfranco Becchina,sold_antiquities_to,Leon Levy,449
+Gianfranco Becchina,sold_antiquities_to,Shelby White,450
+Gianfranco Becchina,sold_antiquities_to,Merrin Gallery,451
+Gianfranco Becchina,sold_antiquities_to,Noriyoshi Horiuchi,452
+Gianfranco Becchina,sold_antiquities_to,Dietrich von Bothmer,453
+Gianfranco Becchina,sold_antiquities_to,Metropolitan Museum of Art,454
+Noriyoshi Horiuchi,sold_antiquities_to,Miho Museum,455
+Edward Johnson,stationed_in,Cairo,456
+Luigi Coppola,stole,Melfi vases,457
+Niels Heidenreich,stole,Golden Horns,458
+Leonardo Patterson,stole,El Manatí,459
+Vaman Ghiya,stored_antiquities_in,Delhi,460
+Vaman Ghiya,stored_antiquities_in,Jaipur,461
+Vaman Ghiya,stored_antiquities_in,Mathura,462
+Giacomo Medici,stored_antiquities_in,Geneva storerooms,463
+Nikolay Zavadsky,stored_antiquities_in,Finlyandskiy,464
+David Swetnam,stored_antiquities_in,United Kingdom,465
+Marquess of Northampton,sued,Peter Mimpriss,466
+alabaster duck vessels,taken_from,Saqqara,467
+Egyptian artefacts,taken_from,Hillwood Museum,468
+Las Limas Monument 1,taken_from,Xalapa,469
+Second century AD copy of a head of Diadoumenos by Polykleitos,taken_from,excavation storeroom at Venosa,470
+Señor de Las Limas,taken_from,Museum of Anthropology,471
+Euphronios ( Sarpedon ) krater,taken_from,Cerveteri,472
+western-most ( farthest right ) maithuna,taken_from,Atru,473
+Vicús,transfered_to,Metropolitan Museum of Art,474
+David Swetnam,wanted_by,United States Customs,475
+Alexander Yerofeyev,was_in,St Petersburg,476
+Chester Gorman,was_in,Ban Chiang,477
+Enrico Poli,was_in,Trujillo,478
+Larisa Zavadskaya,was_in,Finland,479
+Maya pottery,was_in,Museum of Fine Arts,480
+Ong Soo Hin,was_in,Perth,481
+Phoenix Ancient Art,was_in,New York,482
+Robert Olson,was_in,Thailand,483
+Roger Cornelius Russell Yorke,was_in,South America,484
+Sylvanus Morley,was_in,Cancuén,485
+Sylvanus Morley,was_in,Xultún,486
+Vaman Ghiya,was_in,Delhi,487
+Vaman Ghiya,was_in,Jaipur,488
+Vaman Ghiya,was_in,Mathura,489
+Vladimir Mefty,was_in,London,490
+Morgantina Venus,shipped_to,Switzerland,491
+El Zotz Wooden Lintel,shipped_to,United States,492
+Euphronios ( Sarpedon ) krater,shipped_to,Switzerland,493
+red-on-buff decorated pottery,shipped_to,United States,494
+Salvadoran antiquities,shipped_to,Japan,495
+Salvadoran antiquities,shipped_to,Saudi Arabia,496
+Salvadoran antiquities,shipped_to,United States,497
+Señor de Las Limas,shipped_to,San Antonio,498
+western-most ( farthest right ) maithuna,shipped_to,Hong Kong,499
+western-most ( farthest right ) maithuna,shipped_to,Thailand,500
+Anne-Louise Schaffer,worked_for,Museum of Primitive Art,501
+Brendan Lynch,worked_for,Sotheby's,502
+Charles Craig,worked_for,Crocker Bank,503
+Chester Gorman,worked_for,University of Pennsylvania,504
+Christian Boursaud,worked_for,Hydra Gallery,505
+Curator of Provenance,worked_for,Boston Museum of Fine Arts,506
+Dietrich von Bothmer,worked_for,Metropolitan Museum of Art,507
+DR Bhandarkar,worked_for,Archaeological Survey of India,508
+Dyfri Williams,worked_for,British Museum,509
+Edward Johnson,worked_for,US Army,510
+Elizabeth Shee Twohig,worked_for,University College Cork,511
+Fine Arts Services,worked_for,Miguel de Osma Berckemeyer,512
+Fred Drew,worked_for,David Swetnam,513
+Frieda Tchacos,worked_for,Galerie Nefer,514
+Fritz Bürki,worked_for,Robert Hecht,515
+Gaston Wallace,worked_for,United States Customs,516
+Jack Ogden,worked_for,Cambridge Centre for Precious Metal Research,517
+Joel Malter,worked_for,Malter Galleries,518
+Juan Pedro Laporte,worked_for,Proyecto Nacional Tikal,519
+Kirit L Mankodi,worked_for,Indian High Commissions,520
+Mensun Bound,worked_for,Oxford University-based,521
+Michael Kelly,worked_for,David Swetnam,522
+Muriel Newman,worked_for,Dikran Sarrafian,523
+Olof Hansson,worked_for,Museum of Ethnography,524
+Peter Mimpriss,worked_for,Marquess of Northampton,525
+Peter Mimpriss,worked_for,Peter Wilson,526
+Peter Wilson,worked_for,Sotheby's,527
+Piotr Jaxa,worked_for,Rolex Awards Website,528
+Ramiz Rizk,worked_for,Abraham Trust,529
+Robert P Mitchell,worked_for,Boston Museum of Fine Arts,530
+Román Piña Chan,worked_for,National Museum of Anthropology,531
+Sezai Portakalci,worked_for,Incirlik Air Base,532
+Stephen Houston,worked_for,Proyecto Arqueológico El Zotz,533
+Trinh Cao Tuong,worked_for,Vietnamese Institute of Archaeology,534
+Vladimir Mefty,worked_for,CID,535
+William Bullard,worked_for,University of Florida,536
+William Grimes,worked_for,New York Times,537
+William Saturno,worked_for,Boston University,538
+Yakov Chernikov,worked_for,Russian State Archive of Literature and Art,539
+Raffaele Monticelli,worked_for,Gianfranco Becchina,540
+Alexander Yerofeyev,partnered,Larisa Zavadskaya,541
+Anne-Louise Schaffer,partnered,Julie Jones,542
+Anton Tkalec,partnered,Halim Korban,543
+Anton Tkalec,partnered,Mansur Mokhtarzade,544
+Armand Labbé,partnered,Robert Olson,545
+Art Loss Register,partnered,Immigration and Customs Enforcement,546
+Barbara Fleischman,bought_from,Giacomo Medici,547
+Art Loss Register,partnered,Sands of Time,548
+Benjamin Bishop Johnson,partnered,David Swetnam,549
+Benjamin Bishop Johnson,partnered,Michael Kelly,550
+Bill Verick,partnered,Jordan Eth,551
+Bill Verick,partnered,Michael Ratner,552
+Bolivia,partnered,United States,553
+Bolivian National Archives,partnered,Cristina Bubba,554
+Brendan Lynch,partnered,Vaman Ghiya,555
+Cambridge Centre for Precious Metal Research,partnered,Jack Ogden,556
+Carl Cuthe,partnered,Sylvanus Morley,557
+Christian Boursaud,partnered,Giacomo Medici,558
+Clive Hollinshead,partnered,Johnnie Fell,559
+Clive Hollinshead,partnered,Jorge Alamilla,560
+Cristina Bubba,partnered,Bolivian National Archives,561
+Danilo Zicchi,partnered,Pasquale Camera,562
+David Swetnam,partnered,Michael Kelly,563
+David Swetnam,partnered,Miguel de Osma Berckemeyer,564
+David Swetnam,partnered,Benjamin Bishop Johnson,565
+David Swetnam,partnered,Fred Drew,566
+Denver Art Museum,partnered,Museo Nacional de Arqueología e Etnología,567
+Dikran Sarrafian,partnered,Robert Hecht,568
+Elie Borowsky,partnered,Gianfranco Becchina,569
+Elie Borowsky,partnered,Noriyoshi Horiuchi,570
+Elizabeth Shee Twohig,partnered,National Museum of Ireland,571
+Emil Bernal,partnered,Pereda,572
+Fred Drew,partnered,David Swetnam,573
+Fred Drew,partnered,Miguel de Osma Berckemeyer,574
+Frieda Tchacos,partnered,Giacomo Medici,575
+Frieda Tchacos,partnered,Pasquale Camera,576
+Fritz Bürki,partnered,Robert Hecht,577
+Geoffrey Jenkinson,partnered,Abraham Trust,578
+Giacomo Medici,partnered,Frieda Tchacos,579
+Giacomo Medici,partnered,Hischam Aboutaam,580
+Giacomo Medici,partnered,Nikolas Koutoulakis,581
+Giacomo Medici,partnered,Robert Hecht,582
+Giacomo Medici,partnered,Robin Symes,583
+Giacomo Medici,partnered,Christian Boursaud,584
+Gianfranco Becchina,alias,Anna Spinello,585
+Gianfranco Becchina,partnered,Mario Bruno,586
+Gianfranco Becchina,partnered,Elie Borowsky,587
+Gianfranco Becchina,partnered,Robert Hecht,588
+Gianfranco Becchina,partnered,Rosie Becchina,589
+Halim Korban,partnered,Mansur Mokhtarzade,590
+Halim Korban,partnered,Anton Tkalec,591
+Hischam Aboutaam,partnered,Giacomo Medici,592
+Immigration and Customs Enforcement,partnered,Art Loss Register,593
+Indian High Commissions,partnered,Rajan Mathai,594
+Jack Ogden,partnered,Cambridge Centre for Precious Metal Research,595
+James Garriock,partnered,Terry Rossiter,596
+Joel Malter,partnered,Susan Lerer,597
+Joel Malter,partnered,Robert Olson,598
+John Betts,partnered,Michael Ward Gallery,599
+Johnnie Fell,partnered,Clive Hollinshead,600
+Marion True,worked_for,Jiri Frel,601
+Marion True,worked_for,J Paul Getty Museum,602
+J Paul Getty Museum,acquired,Fleischman Collection,603
+Christos Michaelides,relationship_with,Robin Symes,604
+J Paul Getty Museum,bought_from,Robin Symes,605
+Marion True,implicated_with,Barbara Fleischman,606
+Marion True,implicated_with,Lawrence Fleischman,607
+Marion True,received_antiquities_from,Robert Hecht,608
+Boston Museum of Fine Arts,bought_from,Giacomo Medici,609
+Marion True,implicated_with,Robert Hecht,610
+Carabinieri,arrested,Giacomo Medici,611
+Anna Spinello,alias,Gianfranco Becchina,612
+David Swetnam,hired,Benjamin Bishop Johnson,613
+Leonardo Patterson,hired,Donald Hales,614
+Carabinieri,raided,Giacomo Medici,615
+Michael Ward Gallery,hired,Jack Ogden,616
+Robert Olson,hired,Joel Malter,617
+Michael Ward Gallery,hired,John Betts,618
+Leonardo Patterson,hired,Paul Clifford,619
+Jonathan and Cari Markell,hired,Roxanna Brown,620
+Immigration and Customs Enforcement,arrested,Edward Johnson,621
+Jonathan and Cari Markell,partnered,Robert Olson,622
+Euphronios ( Sarpedon ) krater,verified_by,Dikran Sarrafian,623
+Precolumbian art,verified_by,Paul Clifford,624
+Ban Chiang pottery,purchased_by,Barry MacLean,625
+El Zotz Wooden Lintel,purchased_by,Berry & Stark Associates,626
+dragon ewers,purchased_by,Art Gallery of New South Wales,627
+dragon ewers,purchased_by,British Museum,628
+Loma Negra,purchased_by,Nelson Rockefeller,629
+mask made of fuschite depicting the sun god,purchased_by,Peter G Wray,630
+Predynastic opium poppy vase,purchased_by,Michigan-based Orpheus Art,631
+Morgantina Venus,purchased_by,Robin Symes,632
+sealstones,purchased_by,Michael Ward Gallery,633
+second Euphronios krater,purchased_by,Leon Levy,634
+second Euphronios krater,purchased_by,Shelby White,635
+"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",purchased_by,J Paul Getty Museum,636
+Euphronios ( Sarpedon ) krater,purchased_by,Metropolitan Museum of Art,637
+Uma Maheshwar,purchased_by,Museum für Indische Kunst,638
+Silver Hoard of Everbeek,purchased_by,Provincial Archaeological Museum,639
+totem pole,purchased_by,Sweden,640
+red-figure krater by Asteas,purchased_by,J Paul Getty Museum,641
+Alan C Lapiner,sold_antiquities_to,Metropolitan Museum of Art,642
+Alan C Lapiner,sold_antiquities_to,Museum of Primitive Art,643
+Alistair McAlpine,sold_antiquities_to,British Museum,644
+André Emmerich,sold_antiquities_to,Detroit Institute of Art,645
+Antike Kunst Palladion,sold_antiquities_to,J Paul Getty Museum,646
+Anton Tkalec,sold_antiquities_to,Art Consultancy,647
+Luigi Coppola,sold_antiquities_to,Antonio ‘Nino' Savoca,648
+Robin Symes,sold_antiquities_to,Barbara Fleischman,649
+Barbara Fleischman,sold_antiquities_to,J Paul Getty Museum,650
+Michael Kelly,sold_antiquities_to,Benjamin Bishop Johnson,651
+David Swetnam,sold_antiquities_to,Benjamin Bishop Johnson,652
+David Swetnam,sold_antiquities_to,Charles Craig,653
+Atlantis Antiquities,sold_antiquities_to,Fleischman Collection,654
+Fritz Bürki,sold_antiquities_to,Fleischman Collection,655
+Antonio ‘Nino' Savoca,sold_antiquities_to,Frieda Tchacos,656
+Captain Trang,sold_antiquities_to,Hoi An,657
+Pierre Langlois,sold_antiquities_to,Jean Aurance,658
+Korban and Tkalec,sold_antiquities_to,Marquess of Northampton,659
+Robin Symes,sold_antiquities_to,Maurice Tempelsman,660
+Andre Emmerich Gallery,sold_antiquities_to,Michael Rockefeller,661
+Everett Rassiga,sold_antiquities_to,Nelson Rockefeller,662
+Earl Stendahl,sold_antiquities_to,Pierre Langlois,663
+Thailand,sold_antiquities_to,Robert Olson,664
+Clive Hollinshead,sold_antiquities_to,Ted Wiener,665
+Frieda Tchacos,sold_antiquities_to,J Paul Getty Museum,666
+Hydra Gallery,sold_antiquities_to,J Paul Getty Museum,667
+Samuel Schweitzer,sold_antiquities_to,J Paul Getty Museum,668
+Dikran Sarrafian,sold_antiquities_to,Robert Hecht,669
+a collector from Chiasso,sold_antiquities_to,Robin Symes,670
+Josué Sáenz,implicated_with,Everett Rassiga,671
+Alistair McAlpine,implicated_with,John Cummings,672
+Christie's,implicated_with,John Cummings,673
+Renzo Canavesi,implicated_with,Orazio di Simone,674
+Giacomo Medici,implicated_with,Pasquale Camera,675
+Gianfranco Becchina,implicated_with,Pasquale Camera,676
+Robert Hecht,implicated_with,Pasquale Camera,677
+Samuel Schweitzer,implicated_with,Vasek Polak,678
+Christian Boursaud,accepted_material_from,Giacomo Medici,679
+Cleveland Museum of Art,bought_from,Giacomo Medici,680
+E Pfuhl,implicated_by,Giacomo Medici,681
+Egypt,looted_by,Giacomo Medici,682
+Euphronios ( Sarpedon ) krater,looted_by,Giacomo Medici,683
+"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",looted_by,Giacomo Medici,684
+Christie's,accepted_material_from,Israeli,685
+David Bernstein,accepted_material_from,Moche pieces,686
+Andre Emmerich's New York Gallery,accepted_material_from,Peter G Wray,687
+Editions Services,accepted_material_from,sarcophagus,688
+Euphronios,made,Euphronios ( Sarpedon ) krater,689
+Euxitheos,made,Euphronios ( Sarpedon ) krater,690
+Bowers Museum,employed,Armand Labbé,691
+Boston Museum of Fine Arts,employed,Cornelius C Vermeule III,692
+Museum of Primitive Art,employed,Julie Jones,693
+Hermitage,employed,Larisa Zavadskaya,694
+J Paul Getty Museum,employed,Marion True,695
+Bangkok University's Southeast Asian Ceramics Museum,employed,Roxanna Brown,696
+Sands of Time,employed,Sue McGovern,697
+Art Collections Conservation Network,employed,Michael Kelly,698
+El Zotz Wooden Lintel,given_by,Berry & Stark Associates,699
+SPGH,given_by,Michael Ward,700
+Fleischman Collection,given_by,Barbara Fleischman,701
+Fleischman Collection,given_by,Lawrence Fleischman,702
+Mint Museum of Art,possessed,a vase,703
+Nasher Museum of Art,possessed,a vase,704
+Museum of Anthropology,received_antiquities_from,Alfonso Medellín Zenil,705
+Denver Art Museum,received_antiquities_from,Berry & Stark Associates,706
+Egyptian Embassy,received_antiquities_from,Bonhams,707
+Santa Barbara Museum of Art,received_antiquities_from,Charles Craig,708
+J Paul Getty Museum,received_antiquities_from,Galerie Nefer,709
+J Paul Getty Museum,received_antiquities_from,Gordon McClendon,710
+Los Angeles County Museum of Art,received_antiquities_from,Jonathan and Cari Markell,711
+Boston Museum of Fine Arts,received_antiquities_from,Leon Levy,712
+J Paul Getty Museum,received_antiquities_from,Michael Milken,713
+Museum of Primitive Art,received_antiquities_from,Michael Rockefeller,714
+Elizabeth Shee Twohig,received_antiquities_from,Michael Webb,715
+Museum of Primitive Art,received_antiquities_from,Nelson Rockefeller,716
+Museum of Fine Arts,received_antiquities_from,Shelby White,717
+Provincial Archaeological Museum,received_antiquities_from,Silver Hoard of Everbeek,718
+Metropolitan Museum of Art,received_antiquities_from,Museum of Primitive Art,719
+Denver Art Museum,received_antiquities_from,El Zotz Wooden Lintel,720
+Weary Herakles,displayed_at,Antalya Museum,721
+mask made of fuschite depicting the sun god,displayed_at,Barbier-Mueller Pre-Columbian Art Museum,722
+Weary Herakles,displayed_at,Metropolitan Museum of Art,723
+Anton Roeckl,lived_in,Germany,724
+Rosa Manuel Pascual,lived_in,Las Limas,725
+David Bernstein,lived_in,New York,726
+Raúl Apesteguía,lived_in,Peru,727
+Medici Polaroid,implicates,Antike Kunst Palladion,728
+Giacomo Medici,implicates,Atlantis Antiquities,729
+Medici Polaroid,implicates,Barbara Fleischman,730
+Giacomo Medici,implicates,E Pfuhl,731
+Medici Polaroid,implicates,Fritz Bürki,732
+Medici Polaroid,implicates,Maurice Tempelsman,733
+Giacomo Medici,implicated_by,Medici Polaroid,734
+Medici Polaroid,implicates,Robin Symes,735
+Medici Polaroid,implicates,Rycroft Collection,736
+Medici Polaroid,implicates,Samuel Schweitzer,737
+Medici Polaroid,implicates,Gianfranco Becchina,738
+Medici Polaroid,implicates,Pasquale Camera,739
+Marion True,probed_by,Carabinieri,740
+Dos Cabezas,probed_by,Departamento de Monumentos Arqueológicos,741
+Phoenix Ancient Art,probed_by,Immigration and Customs Enforcement,742
+Giuseppe Mascara,probed_by,Carabinieri,743
+Bonhams,probed_by,Luc Watrin,744
+Edward Merrin,probed_by,New York Times,745
+Velzeke Provincial Archaeological Museum,probed_by,Flanders Heritage Agency,746
+Dikran Sarrafian,probed_by,Metropolitan Museum of Art,747
+Michael Webb,probed_by,Supreme Court,748
+Sotheby's,probed_by,United States Customs,749
+John Eskenazi,probed_by,US Homeland Security,750
+Cu Lao Cham,looted_by,Captain Trang,751
+Placeres,looted_by,Everett Rassiga,752
+Jordan Eth,partnered,Bill Verick,753
+Machaquilá Stela 2,looted_by,Jorge Alamilla,754
+Laguna de los Cóndores,looted_by,Julio Ullilén,755
+Hermitage,looted_by,Larisa Zavadskaya,756
+Hermitage,looted_by,Nikolay Zavadsky,757
+Ban Chiang,looted_by,Occupants of the modern village of Ban Chiang,758
+Ica Valley,looted_by,Pablo Soldi,759
+Sipán,looted_by,Pereda,760
+Las Bocas,origin_for,baby-face figure,761
+Hoi An,looted_by,Captain Trang,762
+Morgantina,origin_for,Morgantina Venus,763
+El Zotz,origin_for,El Zotz Wooden Lintel,764
+Temple 1,origin_for,El Zotz Wooden Lintel,765
+Cerveteri,origin_for,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",766
+Nepal,origin_for,Hindu,767
+Dos Cabezas,origin_for,Moche pieces,768
+La Mina,origin_for,Moche headdress,769
+Zeugma,origin_for,mosaic floor,770
+Las Bocas,origin_for,Olmec,771
+Vilasgarh temple,origin_for,red sandstone figure of a Jina,772
+Ban Chiang,origin_for,red-on-buff decorated pottery,773
+Coroma,origin_for,sacred textiles,774
+San Saba,origin_for,sarcophagus,775
+Xultún,origin_for,sculptural material,776
+Hindu,origin_for,sculptures,777
+Zeugma,origin_for,statuary,778
+Xultún,origin_for,Stela 3,779
+Aidonia_Greece,origin_for,Aidonia_Greece Treasure,780
+Perge,origin_for,Weary Herakles,781
+Italian Giustiniani Collection,origin_for,torso of a second century AD statue of the god,782
+Wotol,origin_for,Uma Maheshwar,783
+Loma Negra,origin_for,Vicús,784
+Mycenaean objects,consigned_through,Michael Ward Gallery,785
+Mexico,base_for,Alberto Luna,786
+New York,base_for,André Emmerich,787
+Munich,base_for,Antonio ‘Nino' Savoca,788
+Bangkok,base_for,Bobbyo Imports,789
+Chiang Mai,base_for,Bobbyo Imports,790
+Los Angeles,base_for,Bobbyo Imports,791
+Singapore,base_for,Bobbyo Imports,792
+Geneva,base_for,Christian Boursaud,793
+Miami,base_for,Clive Hollinshead,794
+Atru,base_for,DR Bhandarkar,795
+New York,base_for,Edward Merrin,796
+India,base_for,Vaman Ghiya,797
+Geneva,belonged_to,Giacomo Medici,798
+Geneva storerooms,base_for,Giacomo Medici,799
+Milwaukee,base_for,Glenn Rittenour,800
+Helena,base_for,Harry Brown,801
+New York,base_for,Leonardo Patterson,802
+British Columbia,base_for,Olof Hansson,803
+Sweden,base_for,Olof Hansson,804
+Sicily,base_for,Orazio di Simone,805
+Switzerland,base_for,Orazio di Simone,806
+Switzerland,base_for,Renzo Canavesi,807
+Switzerland,base_for,Robert Hecht,808
+United States,base_for,Robert Hecht,809
+Los Angeles,base_for,Robert Olson,810
+Thailand,base_for,Robert Olson,811
+London,base_for,Robin Symes,812
+Truro,base_for,Roger Cornelius Russell Yorke,813
+El Salvador,base_for,Stanley Boggs,814
+Dos Cabezas,base_for,Steve Bourget,815
+JFK Airport,base_for,Swiss Air,816
+Udon,base_for,United States,817
+Euphronios ( Sarpedon ) krater,from_culture,Athens,818
+Moche pieces,from_culture,La Mina,819
+Moche pieces,from_culture,Loma Negra,820
+Olmec,from_culture,Puebla,821
+Lyssipos,from_culture,Sicyon,822
+Silk Roads Gallery,belonged_to,Jonathan and Cari Markell,823
+Hydra Gallery,belonged_to,Christian Boursaud,824
+Butterfields,belonged_to,eBay,825
+El Zotz Wooden Lintel,belonged_to,Edward Merrin,826
+Atlantis Antiquities,belonged_to,Fritz Bürki,827
+Artistic Imports Corporation ),belonged_to,Vaman Ghiya,828
+Cape Lion Logging,belonged_to,Vaman Ghiya,829
+Megavena,belonged_to,Vaman Ghiya,830
+Geneva-based Editions Services,accepted_material_from,Giacomo Medici,831
+Geneva-based Editions Services,belonged_to,Giacomo Medici,832
+George Ortiz,bought_from,Giacomo Medici,833
+Greece,looted_by,Giacomo Medici,834
+Jorge Alamilla,partnered,Clive Hollinshead,835
+Hunt brothers,bought_from,Giacomo Medici,836
+Hydra Gallery,belonged_to,Giacomo Medici,837
+Antike Kunst Palladion,belonged_to,Gianfranco Becchina,838
+Maya Vase Database,belonged_to,Justin Kerr,839
+Toi moko,belonged_to,Marquis of Tavistock,840
+Michael Ward Gallery,belonged_to,Michael Ward,841
+Saga Horizon,belonged_to,Ong Soo Hin,842
+Art Consultancy,belonged_to,Peter Wilson,843
+Rainer Zietz,belonged_to,Peter Wilson,844
+Bobbyo Imports,belonged_to,Robert Olson,845
+warehouse,belonged_to,Robert Olson,846
+Sevso Treasure,belonged_to,Marquess of Northampton,847
+Merrin Gallery,belonged_to,Edward Merrin,848
+Las Bocas,contains,Caballo Pintado,849
+San Miguel la Palotada National Park,contains,El Zotz,850
+Belgium,contains,Flanders,851
+El Zotz,contains,Temple 1,852
+Jequetepeque Valley,contains,Zona Arqueológica Cerro Dos Cabezas,853
+Sevso Plate,held_by,Anton Tkalec,854
+Morgantina Venus,held_by,Orazio di Simone,855
+alabaster duck vessels,held_by,PIASA,856
+Hillwood Museum,led_by,Barry Stern,857
+Museum für Indische Kunst,led_by,Mariane Yaldiz,858
+Art Collections Conservation Network,led_by,Michael Kelly,859
+Department of Archaeology,led_by,Riddi Pradhan,860
+Metropolitan Museum of Art,led_by,Thomas Hoving,861
+United States Customs,raided,Charles Craig,862
+Carabinieri,raided,Geneva,863
+Carabinieri,raided,Geneva storerooms,864
+Italy,looted_by,Giacomo Medici,865
+Carabinieri,raided,Robert Hecht,866
+Royal Canadian Mounted Police,raided,Roger Cornelius Russell Yorke,867
+United States Customs,raided,Sotheby's,868
+United States Customs,raided,Steven Berger,869
+Ed Dwyer,rejected_by,André Emmerich,870
+Ed Dwyer,rejected_by,Glenn Rittenour,871
+Ed Dwyer,rejected_by,Leonardo Patterson,872
+Ed Dwyer,rejected_by,Marjorie Neikrug,873
+Ed Dwyer,rejected_by,Brooklyn Museum,874
+Harry Brown,rejected_by,Denver Art Museum,875
+Joseph Garner,related_to,Edward Johnson,876
+Johnnie Brown Fell,related_to,Harry Brown,877
+Abraham Trust,related_to,Marquess of Northampton,878
+David Swetnam,relationship_with,Jacqueline Swetnam,879
+Nikolay Zavadsky,relationship_with,Larisa Zavadskaya,880
+Leon Levy,relationship_with,Shelby White,881
+Egypt,regained,alabaster duck vessels,882
+Guatemala,regained,Ballcourt Marker,883
+Italy,regained,Morgantina Venus,884
+Egypt,regained,Dynasty Tomb of Mutirdis,885
+Museo Nacional de Arqueología e Etnología,regained,El Zotz Wooden Lintel,886
+Italy,regained,"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",887
+Guatemala,regained,El Zotz Wooden Lintel,888
+Guatemala,regained,Macahquilá Stela 2,889
+Guatemala,regained,Machaquilá Stela 5,890
+Gaziantep Museum,regained,mosaic floor,891
+Italy,regained,second Euphronios krater,892
+Chinese Embassy,regained,Sotheby's,893
+Greece,regained,Aidonia_Greece Treasure,894
+Turkey,regained,Boston Museum of Fine Arts,895
+Villa Giulia,regained,Euphronios ( Sarpedon ) krater,896
+National Museum,regained,Weary Herakles,897
+Canada,regained,totem pole,898
+Nepal,regained,Uma Maheshwar,899
+Patan Museum,regained,Uma Maheshwar,900
+Morley Museum,regained,unprovenienced vessel,901
+Antalya,regained,Weary Herakles,902
+Marquess of Northampton,represented_by,Abraham Trust,903
+Peter Wilson,represented_by,Abraham Trust,904
+Philip Wilson,represented_by,Abraham Trust,905
+Rainer Zietz,represented_by,Abraham Trust,906
+Tom Wilson,represented_by,Abraham Trust,907
+alabaster duck vessels,returned_by,Christie's,908
+Egyptian,returned_by,Rupert Wace,909
+totem pole,returned_by,Sweden,910
+Weary Herakles,returned_by,Boston Museum of Fine Arts,911
+El Zotz Wooden Lintel,returned_by,Denver Art Museum,912
+Morgantina Venus,returned_by,J Paul Getty Museum,913
+"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",returned_by,J Paul Getty Museum,914
+red sandstone figure of a Jina,looted_by,Vaman Ghiya,915
+J Paul Getty Museum,bought_from,Giacomo Medici,916
+Machaquilá Stela 5,looted_by,Harry Brown,917
+Precolumbian figurines,looted_by,Leonardo Patterson,918
+sea turtle eggs,looted_by,Leonardo Patterson,919
+Morgantina Venus,looted_by,Orazio di Simone,920
+sacred textiles,looted_by,Roger Cornelius Russell Yorke,921
+sacred textiles,looted_by,Steven Berger,922
+Dos Cabezas,looted_by,Anton Roeckl,923
+Peru,looted_by,David Swetnam,924
+José Luis Várez Fisa,bought_from,Giacomo Medici,925
+Lawrence Fleischman,bought_from,Giacomo Medici,926
+Leon Levy,bought_from,Giacomo Medici,927
+Marion True,received_antiquities_from,Giacomo Medici,928
+Marion True,implicated_with,Giacomo Medici,929
+Vietnam,looted_by,Japanese,930
+Geneva,transit_point_for,Vaman Ghiya,931
+Spain,transit_point_for,Leonardo Patterson,932
+Los Angeles International Airport,transit_point_for,Michael Kelly,933
+London,transit_point_for,Miguel de Osma Berckemeyer,934
+Udon,transit_point_for,Occupants of the modern village of,935
+Bolivia,transit_point_for,David Swetnam,936
+Canada,transit_point_for,David Swetnam,937
+Vancouver,transit_point_for,David Swetnam,938
+Clive Hollinshead,transit_point_for,Ed Dwyer,939
+New York,transit_point_for,Ed Dwyer,940
+Mat Securitas,accepted_material_from,Giacomo Medici,941
+Clive Hollinshead,transit_point_for,Harry Brown,942
+Clive Hollinshead,transit_point_for,Johnnie Brown Fell,943
+New York,transit_point_for,Johnnie Brown Fell,944
+Munich,transit_point_for,Leonardo Patterson,945
+Roger Cornelius Russell Yorke,transit_point_for,Steven Berger,946
+United States,transit_point_for,David Swetnam,947
+El Zotz Wooden Lintel,bought_from,Edward Merrin,948
+"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",bought_from,Frieda Tchacos,949
+El Manatí Style Busts,bought_from,Leonardo Patterson,950
+fake monumental head,bought_from,Leonardo Patterson,951
+figural carvings,bought_from,Leonardo Patterson,952
+gold jewelry,bought_from,Michael Ward Gallery,953
+Moche pieces,bought_from,Raúl Apesteguía,954
+archaeological artefacts,bought_from,Robert Olson,955
+"Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos ",bought_from,Hydra Gallery,956
+red-figure krater by Asteas,bought_from,Gianfranco Becchina,957
+Asia,source_for,Robert Olson,958
+Thailand,source_for,Robert Olson,959
+Hoi An,base_for,Captain Trang,960
+Christie's,auctioned_for,Barry Stern,961
+Christie's,auctioned_for,Vaman Ghiya,962
+London,auctioned_for,Vaman Ghiya,963
+New York,auctioned_for,Vaman Ghiya,964
+Sotheby's,auctioned_for,Vaman Ghiya,965
+Mat Securitas,belonged_to,Giacomo Medici,966
+Hôtel des Ventes,auctioned_for,Guy Loudmer,967
+Hôtel des Ventes,auctioned_for,Hervé Poulin,968
+eBay,auctioned_for,Hoi An ceramics,969
+Arts of Asia,auctioned_for,John Eskenazi,970
+Bonhams,auctioned_for,Joseph Garnish,971
+Bonhams,auctioned_for,Marquis of Tavistock,972
+Sotheby's,auctioned_for,Marquis of Tavistock,973
+Michael Ward Gallery,auctioned_for,Michael Ward,974
+Butterfields,auctioned_for,Ong Soo Hin,975
+Sotheby's,auctioned_for,Phoenix Ancient Art,976
+eBay,auctioned_for,Robert Olson,977
+London,auctioned_for,Sotheby's,978
+New York,auctioned_for,Sotheby's,979
+Sotheby's,auctioned_for,Metropolitan Museum of Art,980
+Sotheby's,auctioned_for,Gianfranco Becchina,981
+Christie's,auctioned_for,Gianfranco Becchina,982
+"""a Denver museum""",bought_from,Butterfields,983
+"""a Los Angeles museum""",bought_from,Butterfields,984
+"""a Phoenix museum""",bought_from,Butterfields,985
+"""a Santa Barbara museum""",bought_from,Butterfields,986
+"""a Seattle museum""",bought_from,Butterfields,987
+Art Gallery of New South Wales,bought_from,Butterfields,988
+British Museum,bought_from,Butterfields,989
+J Paul Getty Museum,bought_from,Dietrich von Bothmer,990
+Leon Levy,bought_from,Dikran Sarrafian,991
+Clive Hollinshead,bought_from,Ed Dwyer,992
+Harry Brown,bought_from,Ed Dwyer,993
+Barbara Fleischman,bought_from,Edward Merrin,994
+Berry & Stark Associates,bought_from,Edward Merrin,995
+Pereda,bought_from,Emil Bernal,996
+Miguel de Osma Berckemeyer,bought_from,Fred Drew,997
+J Paul Getty Museum,bought_from,Frederick Schultz,998
+J Paul Getty Museum,bought_from,Fritz Bürki,999
+J Paul Getty Museum,bought_from,Galerie Nefer,1000
+Maurice Tempelsman,bought_from,Giacomo Medici,1001
+Medici Polaroid,implicates,Giacomo Medici,1002
+Metropolitan Museum of Art,bought_from,Giacomo Medici,1003
+Nikolas Koutoulakis,hired,Giacomo Medici,1004
+Julie Jones,partnered,Anne-Louise Schaffer,1005
+Pasquale Camera,implicated_with,Giacomo Medici,1006
+Robert Hecht,bought_from,Giacomo Medici,1007
+Larisa Zavadskaya,partnered,Nikolay Zavadsky,1008
+Larisa Zavadskaya,partnered,Alexander Yerofeyev,1009
+Rome,base_for,Giacomo Medici,1010
+Shelby White,bought_from,Giacomo Medici,1011
+Sotheby's,accepted_material_from,Giacomo Medici,1012
+Art Consultancy,bought_from,Halim Korban,1013
+Clive Hollinshead,bought_from,Harry Brown,1014
+John Cummings,bought_from,James Garriock,1015
+Metropolitan Museum of Art,bought_from,Jane Costello Goldberg,1016
+Museum of Primitive Art,bought_from,Jane Costello Goldberg,1017
+Ed Dwyer,bought_from,Jorge Alamilla,1018
+Johnnie Brown Fell,bought_from,Jorge Alamilla,1019
+Metropolitan Museum of Art,bought_from,Juan Luis Pereira,1020
+Museum of Primitive Art,bought_from,Juan Luis Pereira,1021
+Alexander Yerofeyev,bought_from,Larisa Zavadskaya,1022
+Metropolitan Museum of Art,bought_from,Leon J Buki,1023
+Museum of Primitive Art,bought_from,Leon J Buki,1024
+Shelby White,bought_from,Leon Levy,1025
+Wayne Anderson,bought_from,Leonardo Patterson,1026
+Art Consultancy,bought_from,Mansur Mokhtarzade,1027
+J Paul Getty Museum,bought_from,Maurice Tempelsman,1028
+Robert Hecht,bought_from,Nikolas Koutoulakis,1029
+Butterfields,bought_from,Ong Soo Hin,1030
+Paul Truel,bought_from,Pablo Soldi,1031
+American Museum of Natural History,bought_from,Pablo Soldi,1032
+Rupert Wace,bought_from,PIASA,1033
+Boston Museum of Fine Arts,bought_from,Robert Hecht,1034
+J Paul Getty Museum,bought_from,Robert Hecht,1035
+Barry MacLean,bought_from,Robert Olson,1036
+Jonathan and Cari Markell,bought_from,Robert Olson,1037
+MacLean,bought_from,Robert Olson,1038
+Wallis Gallery,bought_from,Sands of Time,1039
+Joel Malter,bought_from,Sezai Portakalci,1040
+J Paul Getty Museum,bought_from,Royal Athena Galleries,1041
+Minneapolis Institute of Arts,bought_from,Stendahl Galleries,1042
+Ashmolean Museum,bought_from,Gianfranco Becchina,1043
+Princeton University Art Museum,bought_from,Gianfranco Becchina,1044
+Toledo Museum of Art,bought_from,Gianfranco Becchina,1045
+J Paul Getty Museum,bought_from,Gianfranco Becchina,1046
+George Ortiz,bought_from,Gianfranco Becchina,1047
+Leon Levy,bought_from,Gianfranco Becchina,1048
+Shelby White,bought_from,Gianfranco Becchina,1049
+Merrin Gallery,bought_from,Gianfranco Becchina,1050
+Noriyoshi Horiuchi,bought_from,Gianfranco Becchina,1051
+Dietrich von Bothmer,bought_from,Gianfranco Becchina,1052
+Metropolitan Museum of Art,bought_from,Gianfranco Becchina,1053
+Miho Museum,bought_from,Noriyoshi Horiuchi,1054
+Cairo,base_for,Edward Johnson,1055
+Melfi vases,looted_by,Luigi Coppola,1056
+Golden Horns,looted_by,Niels Heidenreich,1057
+El Manatí,looted_by,Leonardo Patterson,1058
+Delhi,base_for,Vaman Ghiya,1059
+Jaipur,base_for,Vaman Ghiya,1060
+Mathura,base_for,Vaman Ghiya,1061
+Sotheby's,auctioned_for,Giacomo Medici,1062
+Finlyandskiy,base_for,Nikolay Zavadsky,1063
+United Kingdom,base_for,David Swetnam,1064
+Peter Mimpriss,sued_by,Marquess of Northampton,1065
+Saqqara,robbed_of,alabaster duck vessels,1066
+Hillwood Museum,robbed_of,Egyptian artefacts,1067
+Xalapa,robbed_of,Las Limas Monument 1,1068
+excavation storeroom,robbed_of,Second century AD copy of a head of Diadoumenos by Polykleitos,1069
+Museum of Anthropology,robbed_of,Señor de Las Limas,1070
+Cerveteri,robbed_of,Euphronios ( Sarpedon ) krater,1071
+Atru,robbed_of,western-most ( farthest right ) maithuna,1072
+Metropolitan Museum of Art,possessed,Vicús,1073
+United States Customs,investigated,David Swetnam,1074
+St Petersburg,base_for,Alexander Yerofeyev,1075
+Xultún,probed_by,Carnegie Institute,1076
+Ban Chiang,base_for,Chester Gorman,1077
+Trujillo,base_for,Enrico Poli,1078
+Finland,base_for,Larisa Zavadskaya,1079
+Museum of Fine Arts,possessed,Maya pottery,1080
+Perth,base_for,Ong Soo Hin,1081
+New York,base_for,Phoenix Ancient Art,1082
+South America,base_for,Roger Cornelius Russell Yorke,1083
+Cancuén,base_for,Sylvanus Morley,1084
+Xultún,base_for,Sylvanus Morley,1085
+London,base_for,Vladimir Mefty,1086
+Switzerland,transit_point_for,Morgantina Venus,1087
+United States,transit_point_for,El Zotz Wooden Lintel,1088
+Switzerland,transit_point_for,Euphronios ( Sarpedon ) krater,1089
+United States,transit_point_for,red-on-buff decorated pottery,1090
+Japan,transit_point_for,El Salvadore,1091
+Saudi Arabia,transit_point_for,El Salvadore,1092
+United States,transit_point_for,El Salvadore,1093
+San Antonio,transit_point_for,Señor de Las Limas,1094
+Hong Kong,transit_point_for,western-most ( farthest right ) maithuna,1095
+Thailand,transit_point_for,western-most ( farthest right ) maithuna,1096
+Museum of Primitive Art,employed,Anne-Louise Schaffer,1097
+Sotheby's,employed,Brendan Lynch,1098
+Crocker Bank,employed,Charles Craig,1099
+University of Pennsylvania,employed,Chester Gorman,1100
+Hydra Gallery,employed,Christian Boursaud,1101
+Boston Museum of Fine Arts,employed,Curator of Provenance,1102
+Metropolitan Museum of Art,employed,Dietrich von Bothmer,1103
+Archaeological Survey of India,employed,DR Bhandarkar,1104
+British Museum,employed,Dyfri Williams,1105
+US Army,employed,Edward Johnson,1106
+University College Cork,employed,Elizabeth Shee Twohig,1107
+Miguel de Osma Berckemeyer,employed,Fine Arts Services,1108
+David Swetnam,employed,Fred Drew,1109
+Galerie Nefer,employed,Frieda Tchacos,1110
+Robert Hecht,employed,Fritz Bürki,1111
+United States Customs,employed,Gaston Wallace,1112
+Cambridge Centre for Precious Metal Research,employed,Jack Ogden,1113
+Malter Galleries,employed,Joel Malter,1114
+Proyecto Nacional Tikal,employed,Juan Pedro Laporte,1115
+Indian High Commissions,employed,Kirit L Mankodi,1116
+Oxford University-based,employed,Mensun Bound,1117
+David Swetnam,employed,Michael Kelly,1118
+Dikran Sarrafian,employed,Muriel Newman,1119
+Museum of Ethnography,employed,Olof Hansson,1120
+Marquess of Northampton,employed,Peter Mimpriss,1121
+Peter Wilson,employed,Peter Mimpriss,1122
+Sotheby's,employed,Peter Wilson,1123
+Rolex Awards Website,employed,Piotr Jaxa,1124
+Abraham Trust,employed,Ramiz Rizk,1125
+Boston Museum of Fine Arts,employed,Robert P Mitchell,1126
+National Museum of Anthropology,employed,Román Piña Chan,1127
+Incirlik Air Base,employed,Sezai Portakalci,1128
+Proyecto Arqueológico El Zotz,employed,Stephen Houston,1129
+Vietnamese Institute of Archaeology,employed,Trinh Cao Tuong,1130
+CID,employed,Vladimir Mefty,1131
+University of Florida,employed,William Bullard,1132
+New York Times,employed,William Grimes,1133
+Boston University,employed,William Saturno,1134
+Russian State Archive of Literature and Art,employed,Yakov Chernikov,1135
+Gianfranco Becchina,employed,Raffaele Monticelli,1136
+Leonardo Patterson,partnered,Marjorie Neikrug,1137
+Luigi Coppola,partnered,Pasquale Camera,1138
+Mansur Mokhtarzade,partnered,Anton Tkalec,1139
+Mansur Mokhtarzade,partnered,Halim Korban,1140
+Mario Bruno,partnered,Gianfranco Becchina,1141
+Marjorie Neikrug,partnered,Leonardo Patterson,1142
+Mensun Bound,partnered,Ong Soo Hin,1143
+Michael Kelly,partnered,David Swetnam,1144
+Michael Kelly,partnered,Benjamin Bishop Johnson,1145
+Michael Ratner,partnered,Bill Verick,1146
+Michael Ward Gallery,partnered,John Betts,1147
+Miguel de Osma Berckemeyer,partnered,David Swetnam,1148
+Miguel de Osma Berckemeyer,partnered,Fred Drew,1149
+Ministry of Culture,partnered,Trinh Cao Tuong,1150
+Museo Nacional de Arqueología e Etnología,partnered,Denver Art Museum,1151
+National Museum of Ireland,partnered,Elizabeth Shee Twohig,1152
+Switzerland,base_for,Giacomo Medici,1153
+Switzerland,transit_point_for,Giacomo Medici,1154
+Syria,looted_by,Giacomo Medici,1155
+Tecafin Fiduciaire,accepted_material_from,Giacomo Medici,1156
+Tecafin Fiduciaire,belonged_to,Giacomo Medici,1157
+Nikolas Koutoulakis,partnered,Giacomo Medici,1158
+Nikolay Zavadsky,partnered,Larisa Zavadskaya,1159
+Noriyoshi Horiuchi,partnered,Elie Borowsky,1160
+Ong Soo Hin,partnered,Mensun Bound,1161
+Ong Soo Hin,partnered,Vietnamese Salvage Agency,1162
+Pasquale Camera,partnered,Frieda Tchacos,1163
+Pasquale Camera,partnered,Danilo Zicchi,1164
+Pasquale Camera,partnered,Luigi Coppola,1165
+Pereda,partnered,Emil Bernal,1166
+PIASA,partnered,Rupert Wace,1167
+Portakalci,partnered,US Air Force,1168
+Rajan Mathai,partnered,Indian High Commissions,1169
+Robert Hecht,partnered,Dikran Sarrafian,1170
+Robert Hecht,partnered,Fritz Bürki,1171
+Robert Hecht,partnered,Giacomo Medici,1172
+Robert Hecht,partnered,Gianfranco Becchina,1173
+Robert Olson,partnered,Armand Labbé,1174
+Robert Olson,partnered,Jonathan and Cari Markell,1175
+Robert Olson,partnered,Joel Malter,1176
+Robin Symes,partnered,Giacomo Medici,1177
+Roger Cornelius Russell Yorke,partnered,Steven Berger,1178
+Rosie Becchina,partnered,Gianfranco Becchina,1179
+Rupert Wace,partnered,PIASA,1180
+Sands of Time,partnered,Art Loss Register,1181
+Steven Berger,partnered,Roger Cornelius Russell Yorke,1182
+Susan Lerer,partnered,Joel Malter,1183
+Sylvanus Morley,partnered,Carl Cuthe,1184
+Terry Rossiter,partnered,James Garriock,1185
+Thai Fine Arts Department,partnered,University of Pennsylvania Museum,1186
+Trinh Cao Tuong,partnered,Ministry of Culture,1187
+Turkey,partnered,United States Customs,1188
+United States,partnered,Bolivia,1189
+University of Pennsylvania Museum,partnered,Thai Fine Arts Department,1190
+US Air Force,partnered,Portakalci,1191
+United States Customs,partnered,Turkey,1192
+Vaman Ghiya,partnered,Brendan Lynch,1193
+Vietnamese Salvage Agency,partnered,Ong Soo Hin,1194
+Jiri Frel,employed,Marion True,1195
+Fleischman Collection,purchased_by,J Paul Getty Museum,1196
+Robin Symes,relationship_with,Christos Michaelides,1197
+Barbara Fleischman,implicated_with,Marion True,1198
+Lawrence Fleischman,implicated_with,Marion True,1199
+Robert Hecht,sold_antiquities_to,Marion True,1200
+Giacomo Medici,sold_antiquities_to,Marion True,1201
+Robert Hecht,implicated_with,Marion True,1202
+Giacomo Medici,implicated_with,Marion True,1203
+Sotheby's,returned,Empress Dou Figurines,1204
